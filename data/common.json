@@ -28,13 +28,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".ENTER",
-              "preventDefault",
-              ").handleKeyPress"
-            ]
-          }
+          "true": [
+            ".ENTER",
+            "preventDefault",
+            ").handleKeyPress"
+          ]
         }
       }
     },
@@ -42,13 +40,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".RECORDING",
-              ".DEFAULT",
-              "toggleRecordMode"
-            ]
-          }
+          "true": [
+            ".RECORDING",
+            ".DEFAULT",
+            "toggleRecordMode"
+          ]
         }
       }
     },
@@ -69,13 +65,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "itemInfoClassName",
-              "hasSelection",
-              ".radioItemIconClassName"
-            ]
-          }
+          "true": [
+            "itemInfoClassName",
+            "hasSelection",
+            ".radioItemIconClassName"
+          ]
         }
       }
     },
@@ -83,13 +77,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ").inputRef",
-              ".containerRef",
-              ".handleOnChange"
-            ]
-          }
+          "true": [
+            ").inputRef",
+            ".containerRef",
+            ".handleOnChange"
+          ]
         }
       }
     },
@@ -97,20 +89,18 @@
       "export": false,
       "path": "exports",
       "filter": {
+        "functions": {
+          "true": [
+            ".onChange,",
+            ".jsx)"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              ".onChange,",
-              ".jsx)"
-            ]
-          },
-          "default": {
-            "true": [
-              "serialize",
-              "haspopup",
-              ".maxVisibleItems"
-            ]
-          }
+          "true": [
+            "serialize",
+            "haspopup",
+            ".maxVisibleItems"
+          ]
         }
       }
     },
@@ -118,12 +108,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".stickToMarkers",
-              "sortedMarkers"
-            ]
-          }
+          "true": [
+            ".stickToMarkers",
+            "sortedMarkers"
+          ]
         }
       }
     },
@@ -154,12 +142,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "onKeyDown=function",
-              "defaultDirty"
-            ]
-          }
+          "true": [
+            "onKeyDown=function",
+            "defaultDirty"
+          ]
         }
       }
     },
@@ -167,19 +153,17 @@
       "export": false,
       "path": "exports",
       "filter": {
+        "functions": {
+          "true": [
+            "MAXIMUM_LENGTH_ERROR"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "MAXIMUM_LENGTH_ERROR"
-            ]
-          },
-          "default": {
-            "true": [
-              "onFocus=function",
-              "MAXIMUM_LENGTH_ERROR",
-              "translate3d"
-            ]
-          }
+          "true": [
+            "onFocus=function",
+            "MAXIMUM_LENGTH_ERROR",
+            "translate3d"
+          ]
         }
       }
     },
@@ -187,13 +171,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "handleContextMenu=function",
-              "shouldShowTooltip",
-              "clickable"
-            ]
-          }
+          "true": [
+            "handleContextMenu=function",
+            "shouldShowTooltip",
+            "clickable"
+          ]
         }
       }
     },
@@ -201,12 +183,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "anchorUnderlineOnHover",
-              "noreferrer noopener"
-            ]
-          }
+          "true": [
+            "anchorUnderlineOnHover",
+            "noreferrer noopener"
+          ]
         }
       }
     },
@@ -225,12 +205,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "\"onMount\"",
-              "\"onUnmount\""
-            ]
-          }
+          "true": [
+            "\"onMount\"",
+            "\"onUnmount\""
+          ]
         }
       }
     },
@@ -239,13 +217,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "\"statusColor\"",
-              "ONLINE",
-              "isMobile"
-            ]
-          }
+          "true": [
+            "\"statusColor\"",
+            "ONLINE",
+            "isMobile"
+          ]
         }
       }
     },
@@ -254,12 +230,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "baseShapeRound",
-              "textBadge"
-            ]
-          }
+          "true": [
+            "baseShapeRound",
+            "textBadge"
+          ]
         }
       }
     },
@@ -267,30 +241,26 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "d:\"M8.99991 16.17L4.82991"
-            ]
-          }
+          "true": [
+            "d:\"M8.99991 16.17L4.82991"
+          ]
         }
       }
     },
     "Emoji": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "autoplay"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "autoplay"
-            ]
-          },
-          "default": {
-            "true": [
-              "emojiName",
-              "shouldAnimate",
-              "jumboable"
-            ]
-          }
+          "true": [
+            "emojiName",
+            "shouldAnimate",
+            "jumboable"
+          ]
         }
       }
     },
@@ -298,32 +268,28 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "renderButtonContents",
-              "PickerPerRow",
-              "SELECT_EMOJI"
-            ]
-          }
+          "true": [
+            "renderButtonContents",
+            "PickerPerRow",
+            "SELECT_EMOJI"
+          ]
         }
       }
     },
     "EmojiPicker": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "compare"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "compare"
-            ]
-          },
-          "default": {
-            "true": [
-              "emojiSize",
-              "inExpressionPicker",
-              ",emojiPaddingHorizontal:"
-            ]
-          }
+          "true": [
+            "emojiSize",
+            "inExpressionPicker",
+            ",emojiPaddingHorizontal:"
+          ]
         }
       }
     },
@@ -343,12 +309,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "flowerStarContainer",
-              ".jsx)"
-            ]
-          }
+          "true": [
+            "flowerStarContainer",
+            ".jsx)"
+          ]
         }
       }
     },
@@ -356,12 +320,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "FocusRing",
-              "ringTarget was not"
-            ]
-          }
+          "true": [
+            "FocusRing",
+            "ringTarget was not"
+          ]
         }
       }
     },
@@ -381,13 +343,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "VERIFIED_AND_PARTNERED",
-              "renderBadge",
-              "flowerStarClassName"
-            ]
-          }
+          "true": [
+            "VERIFIED_AND_PARTNERED",
+            "renderBadge",
+            "flowerStarClassName"
+          ]
         }
       }
     },
@@ -395,12 +355,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "SMOL",
-              "badgeStrokeColor"
-            ]
-          }
+          "true": [
+            "SMOL",
+            "badgeStrokeColor"
+          ]
         }
       }
     },
@@ -408,12 +366,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".muteConfig",
-              "color:\"text-muted\""
-            ]
-          }
+          "true": [
+            ".muteConfig",
+            "color:\"text-muted\""
+          ]
         }
       }
     },
@@ -432,12 +388,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "data-excessive",
-              ".defaultColor"
-            ]
-          }
+          "true": [
+            "data-excessive",
+            ".defaultColor"
+          ]
         }
       }
     },
@@ -445,12 +399,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "isAuthenticated",
-              ".HEADER_BAR"
-            ]
-          }
+          "true": [
+            "isAuthenticated",
+            ".HEADER_BAR"
+          ]
         }
       }
     },
@@ -459,13 +411,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "containerRef",
-              "zoomable",
-              "LOADING"
-            ]
-          }
+          "true": [
+            "containerRef",
+            "zoomable",
+            "LOADING"
+          ]
         }
       }
     },
@@ -473,12 +423,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "mobileCloseWrapper",
-              "closeAction"
-            ]
-          }
+          "true": [
+            "mobileCloseWrapper",
+            "closeAction"
+          ]
         }
       }
     },
@@ -487,12 +435,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "layerContainerElement",
-              "LayerProvider"
-            ]
-          }
+          "true": [
+            "layerContainerElement",
+            "LayerProvider"
+          ]
         }
       }
     },
@@ -500,12 +446,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "LOADING",
-              "visibilityObserver"
-            ]
-          }
+          "true": [
+            "LOADING",
+            "visibilityObserver"
+          ]
         }
       }
     },
@@ -513,13 +457,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".container",
-              "\"h2\"",
-              "[\"aria-label\"]"
-            ]
-          }
+          "true": [
+            ".container",
+            "\"h2\"",
+            "[\"aria-label\"]"
+          ]
         }
       }
     },
@@ -534,17 +476,15 @@
     "Menu": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "keyboardModeEnabled"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "keyboardModeEnabled"
-            ]
-          },
-          "default": {
-            "true": [
-              "Menu API only allows Items and groups of Items as children"
-            ]
-          }
+          "true": [
+            "Menu API only allows Items and groups of Items as children"
+          ]
         }
       }
     },
@@ -552,16 +492,14 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "renderThreadAccessory",
-              "HAS_THREAD",
-              "allowHeading"
-            ],
-            "false": [
-              "THREAD_STARTER"
-            ]
-          }
+          "true": [
+            "renderThreadAccessory",
+            "HAS_THREAD",
+            "allowHeading"
+          ],
+          "false": [
+            "THREAD_STARTER"
+          ]
         }
       }
     },
@@ -570,12 +508,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "canCloseAllMessages",
-              "loadingMore"
-            ]
-          }
+          "true": [
+            "canCloseAllMessages",
+            "loadingMore"
+          ]
         }
       }
     },
@@ -584,12 +520,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".renderModal,",
-              "onCloseRequest"
-            ]
-          }
+          "true": [
+            ".renderModal,",
+            "onCloseRequest"
+          ]
         }
       }
     },
@@ -597,12 +531,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "totalPageCount",
-              "selectedPage"
-            ]
-          }
+          "true": [
+            "totalPageCount",
+            "selectedPage"
+          ]
         }
       }
     },
@@ -610,29 +542,25 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "Masks.PANEL_BUTTON"
-            ]
-          }
+          "true": [
+            "Masks.PANEL_BUTTON"
+          ]
         }
       }
     },
     "PopoutFocusLock": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "impressionName"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "impressionName"
-            ]
-          },
-          "default": {
-            "true": [
-              "impressionName",
-              "useImperativeHandle"
-            ]
-          }
+          "true": [
+            "impressionName",
+            "useImperativeHandle"
+          ]
         }
       }
     },
@@ -641,30 +569,26 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "handleCloseButtonMouseDown",
-              "LEAVE_GROUP_DM_MANAGED_BODY"
-            ]
-          }
+          "true": [
+            "handleCloseButtonMouseDown",
+            "LEAVE_GROUP_DM_MANAGED_BODY"
+          ]
         }
       }
     },
     "RoleMention": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "inlinePreview"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "inlinePreview"
-            ]
-          },
-          "default": {
-            "true": [
-              "rolePopout",
-              "inlinePreview"
-            ]
-          }
+          "true": [
+            "rolePopout",
+            "inlinePreview"
+          ]
         }
       }
     },
@@ -673,14 +597,12 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".fade",
-              ".auto",
-              "paddingFix",
-              "getScrollerNode"
-            ]
-          }
+          "true": [
+            ".fade",
+            ".auto",
+            "paddingFix",
+            "getScrollerNode"
+          ]
         }
       }
     },
@@ -689,12 +611,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "WANDERING_CUBES",
-              "CHASING_DOTS"
-            ]
-          }
+          "true": [
+            "WANDERING_CUBES",
+            "CHASING_DOTS"
+          ]
         }
       }
     },
@@ -703,13 +623,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "{mask",
-              ".mask,",
-              "UNKNOWN"
-            ]
-          }
+          "true": [
+            "{mask",
+            ".mask,",
+            "UNKNOWN"
+          ]
         }
       }
     },
@@ -717,13 +635,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "lineClamp:",
-              ".selectable",
-              ".defaultColor"
-            ]
-          }
+          "true": [
+            "lineClamp:",
+            ".selectable",
+            ".defaultColor"
+          ]
         }
       }
     },
@@ -731,12 +647,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".strong,",
-              ".STANDARD"
-            ]
-          }
+          "true": [
+            ".strong,",
+            ".STANDARD"
+          ]
         }
       }
     },
@@ -767,12 +681,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".PROFILE_USER_BADGES",
-              "SIZE_24"
-            ]
-          }
+          "true": [
+            ".PROFILE_USER_BADGES",
+            "SIZE_24"
+          ]
         }
       }
     },
@@ -780,13 +692,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "\"userId\"",
-              "\"Unexpected missing user\"",
-              "getUser"
-            ]
-          }
+          "true": [
+            "\"userId\"",
+            "\"Unexpected missing user\"",
+            "getUser"
+          ]
         }
       }
     },
@@ -794,12 +704,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".section,",
-              ".lastSection"
-            ]
-          }
+          "true": [
+            ".section,",
+            ".lastSection"
+          ]
         }
       }
     },
@@ -807,30 +715,26 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "popoutUserId:",
-              ".clickableAvatar"
-            ]
-          }
+          "true": [
+            "popoutUserId:",
+            ".clickableAvatar"
+          ]
         }
       }
     },
     "VideoForwardRef": {
       "export": true,
       "filter": {
+        "functions": {
+          "true": [
+            "externalRef"
+          ]
+        },
         "strings": {
-          "function": {
-            "true": [
-              "externalRef"
-            ]
-          },
-          "default": {
-            "true": [
-              "HTMLSourceElement",
-              "autoPlay"
-            ]
-          }
+          "true": [
+            "HTMLSourceElement",
+            "autoPlay"
+          ]
         }
       }
     }
@@ -3831,11 +3735,9 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "type:\"BULK_ACK\""
-            ]
-          }
+          "true": [
+            "type:\"BULK_ACK\""
+          ]
         }
       }
     },
@@ -3910,12 +3812,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "ApplicationAssetUtils",
-              "getAssetImage"
-            ]
-          }
+          "true": [
+            "ApplicationAssetUtils",
+            "getAssetImage"
+          ]
         }
       }
     },
@@ -3946,12 +3846,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "openWarningPopout",
-              "userCanUsePremiumMessageLength"
-            ]
-          }
+          "true": [
+            "openWarningPopout",
+            "userCanUsePremiumMessageLength"
+          ]
         }
       }
     },
@@ -3983,12 +3881,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "renderLazy",
-              "type:\"CONTEXT_MENU_CLOSE\""
-            ]
-          }
+          "true": [
+            "renderLazy",
+            "type:\"CONTEXT_MENU_CLOSE\""
+          ]
         }
       }
     },
@@ -4028,12 +3924,10 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "dispatchToLastSubscribed",
-              "setMaxListeners"
-            ]
-          }
+          "true": [
+            "dispatchToLastSubscribed",
+            "setMaxListeners"
+          ]
         }
       }
     },
@@ -4097,12 +3991,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "getPremiumTypeSubscription",
-              "PREMIUM_GUILD_TIER_1"
-            ]
-          }
+          "true": [
+            "getPremiumTypeSubscription",
+            "PREMIUM_GUILD_TIER_1"
+          ]
         }
       }
     },
@@ -4133,11 +4025,9 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "transitionTo - Transitioning to external path"
-            ]
-          }
+          "true": [
+            "transitionTo - Transitioning to external path"
+          ]
         }
       }
     },
@@ -4180,12 +4070,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "Unrecognized DeviceType",
-              "GAMEPAD"
-            ]
-          }
+          "true": [
+            "Unrecognized DeviceType",
+            "GAMEPAD"
+          ]
         }
       }
     },
@@ -4217,12 +4105,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "renderAdjacentContent",
-              "imageContent"
-            ]
-          }
+          "true": [
+            "renderAdjacentContent",
+            "imageContent"
+          ]
         }
       }
     },
@@ -4242,13 +4128,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "getUserProfile",
-              "getGuildMemberProfile",
-              "_userProfile"
-            ]
-          }
+          "true": [
+            "getUserProfile",
+            "getGuildMemberProfile",
+            "_userProfile"
+          ]
         }
       }
     },
@@ -4257,13 +4141,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "rawMessage",
-              "mention_everyone",
-              "mentionUsers"
-            ]
-          }
+          "true": [
+            "rawMessage",
+            "mention_everyone",
+            "mentionUsers"
+          ]
         }
       }
     },
@@ -4272,12 +4154,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".friendNickname",
-              "colorRoleName:null"
-            ]
-          }
+          "true": [
+            ".friendNickname",
+            "colorRoleName:null"
+          ]
         }
       }
     },
@@ -4286,12 +4166,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "ANIMATE_CHAT_AVATAR",
-              "interactionUsernameProfile"
-            ]
-          }
+          "true": [
+            "ANIMATE_CHAT_AVATAR",
+            "interactionUsernameProfile"
+          ]
         }
       }
     },
@@ -4300,13 +4178,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "showMentionToggle",
-              "SEND_FAILED",
-              "shouldMention"
-            ]
-          }
+          "true": [
+            "showMentionToggle",
+            "SEND_FAILED",
+            "shouldMention"
+          ]
         }
       }
     },
@@ -4348,16 +4224,14 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "modalKey",
-              "instant",
-              "contextKey"
-            ],
-            "false": [
-              "LOGIN_REQUIRED_ACTIONS_MODAL_KEY"
-            ]
-          }
+          "true": [
+            "modalKey",
+            "instant",
+            "contextKey"
+          ],
+          "false": [
+            "LOGIN_REQUIRED_ACTIONS_MODAL_KEY"
+          ]
         }
       }
     },
@@ -4388,11 +4262,9 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "return/^win/.test"
-            ]
-          }
+          "true": [
+            "return/^win/.test"
+          ]
         }
       }
     },
@@ -4413,14 +4285,12 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "reducedMotion",
-              "forcedColors",
-              "alwaysShowLinkDecorations",
-              "createContext"
-            ]
-          }
+          "true": [
+            "reducedMotion",
+            "forcedColors",
+            "alwaysShowLinkDecorations",
+            "createContext"
+          ]
         }
       }
     },
@@ -4451,12 +4321,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "optionallyDiverseSequence,animated",
-              "convertSurrogateToName"
-            ]
-          }
+          "true": [
+            "optionallyDiverseSequence,animated",
+            "convertSurrogateToName"
+          ]
         }
       }
     },
@@ -4465,13 +4333,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "\"MESSAGE_REACTION_ADD\"",
-              "\"MESSAGE_REACTION_REMOVE\"",
-              "\"@me\""
-            ]
-          }
+          "true": [
+            "\"MESSAGE_REACTION_ADD\"",
+            "\"MESSAGE_REACTION_REMOVE\"",
+            "\"@me\""
+          ]
         }
       }
     },
@@ -4502,13 +4368,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".ROLE_ICONS",
-              "convertSurrogateToName",
-              "customIconSrc"
-            ]
-          }
+          "true": [
+            ".ROLE_ICONS",
+            "convertSurrogateToName",
+            "customIconSrc"
+          ]
         }
       }
     },
@@ -4529,13 +4393,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "searchId",
-              "sort_by",
-              "sort_order"
-            ]
-          }
+          "true": [
+            "searchId",
+            "sort_by",
+            "sort_order"
+          ]
         }
       }
     },
@@ -4544,13 +4406,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "ON_FOR_LARGE_GUILDS",
-              "updateSetting",
-              "useSetting"
-            ]
-          }
+          "true": [
+            "ON_FOR_LARGE_GUILDS",
+            "updateSetting",
+            "useSetting"
+          ]
         }
       }
     },
@@ -4558,13 +4418,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "customEmoji",
-              "emojiTooltipPosition",
-              "timestampTooltip"
-            ]
-          }
+          "true": [
+            "customEmoji",
+            "emojiTooltipPosition",
+            "timestampTooltip"
+          ]
         }
       }
     },
@@ -4585,16 +4443,14 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "textValue",
-              "richValue",
-              "text:\"\""
-            ],
-            "false": [
-              ".jsx)"
-            ]
-          }
+          "true": [
+            "textValue",
+            "richValue",
+            "text:\"\""
+          ],
+          "false": [
+            ".jsx)"
+          ]
         }
       }
     },
@@ -4603,15 +4459,13 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "ignoreTrailingEmptyNodes",
-              "preventEmojiSurrogates"
-            ],
-            "false": [
-              ".jsx)"
-            ]
-          }
+          "true": [
+            "ignoreTrailingEmptyNodes",
+            "preventEmojiSurrogates"
+          ],
+          "false": [
+            ".jsx)"
+          ]
         }
       }
     },
@@ -4619,13 +4473,11 @@
       "export": true,
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "discodo",
-              "ddr-down",
-              "mute"
-            ]
-          }
+          "true": [
+            "discodo",
+            "ddr-down",
+            "mute"
+          ]
         }
       }
     },
@@ -4634,16 +4486,14 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              ".play()",
-              ".disableSounds",
-              "getSoundpack"
-            ],
-            "false": [
-              ".jsx)"
-            ]
-          }
+          "true": [
+            ".play()",
+            ".disableSounds",
+            "getSoundpack"
+          ],
+          "false": [
+            ".jsx)"
+          ]
         }
       }
     },
@@ -4663,13 +4513,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "\"SPOTIFY_SET_ACTIVE_DEVICE\"",
-              "deviceId",
-              "accountId"
-            ]
-          }
+          "true": [
+            "\"SPOTIFY_SET_ACTIVE_DEVICE\"",
+            "deviceId",
+            "accountId"
+          ]
         }
       }
     },
@@ -4678,11 +4526,9 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "this._currentDispatchActionType"
-            ]
-          }
+          "true": [
+            "this._currentDispatchActionType"
+          ]
         }
       }
     },
@@ -4749,13 +4595,11 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "Cannot moderate",
-              "user:",
-              "showMute"
-            ]
-          }
+          "true": [
+            "Cannot moderate",
+            "user:",
+            "showMute"
+          ]
         }
       }
     },
@@ -4764,12 +4608,10 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "USER_AGREEMENTS",
-              "user cannot be undefined"
-            ]
-          }
+          "true": [
+            "USER_AGREEMENTS",
+            "user cannot be undefined"
+          ]
         }
       }
     },
@@ -4778,11 +4620,9 @@
       "path": "exports",
       "filter": {
         "strings": {
-          "default": {
-            "true": [
-              "UserSettingsProtoLastWriteTimes"
-            ]
-          }
+          "true": [
+            "UserSettingsProtoLastWriteTimes"
+          ]
         }
       }
     },
