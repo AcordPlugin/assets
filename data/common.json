@@ -1,1 +1,4824 @@
-{"components":{"Button":{"defaultExport":true,"filter":{"properties":{"true":["Colors","Hovers","Looks"]}}},"Checkbox":{"defaultExport":true,"filter":{"properties":{"true":["Aligns","Shapes","Types"]}}},"Clickable":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".ENTER","preventDefault",").handleKeyPress"]}}}},"KeybindRecorder":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".RECORDING",".DEFAULT","toggleRecordMode"]}}}},"PopoutContainer":{"defaultExport":true,"filter":{"properties":{"true":["Positions","Align","Animation","defaultProps"]}}},"RadioGroup":{"defaultExport":true,"filter":{"strings":{"default":{"true":["itemInfoClassName","hasSelection",".radioItemIconClassName"]}}}},"SearchBar":{"defaultExport":true,"filter":{"strings":{"default":{"true":[").inputRef",".containerRef",".handleOnChange"]}}}},"SearchableSelect":{"defaultExport":false,"path":"exports","filter":{"strings":{"function":{"true":[".onChange,",".jsx)"]},"default":{"true":["serialize","haspopup",".maxVisibleItems"]}}}},"Slider":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".stickToMarkers","sortedMarkers"]}}}},"TabBar":{"defaultExport":true,"filter":{"properties":{"true":["Looks","Header","Panel"]}}},"Table":{"defaultExport":true,"filter":{"properties":{"true":["SortDirection","defaultProps"]}}},"TextArea":{"defaultExport":true,"filter":{"strings":{"default":{"true":["onKeyDown=function","defaultDirty"]}}}},"TextInput":{"defaultExport":false,"path":"exports","filter":{"strings":{"function":{"true":["MAXIMUM_LENGTH_ERROR"]},"default":{"true":["onFocus=function","MAXIMUM_LENGTH_ERROR","translate3d"]}}}},"TooltipContainer":{"defaultExport":true,"filter":{"strings":{"default":{"true":["handleContextMenu=function","shouldShowTooltip","clickable"]}}}},"Anchor":{"defaultExport":true,"filter":{"strings":{"default":{"true":["anchorUnderlineOnHover","noreferrer noopener"]}}}},"Animations":{"defaultExport":true,"filter":{"properties":{"true":["Controller","Spring"]}}},"AppReferencePositionLayer":{"defaultExport":true,"filter":{"strings":{"default":{"true":["\"onMount\"","\"onUnmount\""]}}}},"Avatars":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["\"statusColor\"","ONLINE","isMobile"]}}}},"Badges":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["baseShapeRound","textBadge"]}}}},"Checkmark":{"defaultExport":true,"filter":{"strings":{"default":{"true":["d:\"M8.99991 16.17L4.82991"]}}}},"Emoji":{"defaultExport":true,"filter":{"strings":{"function":{"true":["autoplay"]},"default":{"true":["emojiName","shouldAnimate","jumboable"]}}}},"EmojiButton":{"defaultExport":true,"filter":{"strings":{"default":{"true":["renderButtonContents","PickerPerRow","SELECT_EMOJI"]}}}},"EmojiPicker":{"defaultExport":true,"filter":{"strings":{"function":{"true":["compare"]},"default":{"true":["emojiSize","inExpressionPicker",",emojiPaddingHorizontal:"]}}}},"Flex":{"defaultExport":true,"filter":{"properties":{"true":["Wrap","Direction","Child"]}}},"FlowerStar":{"defaultExport":true,"filter":{"strings":{"default":{"true":["flowerStarContainer",".jsx)"]}}}},"FocusRingScope":{"defaultExport":true,"filter":{"strings":{"default":{"true":["FocusRing","ringTarget was not"]}}}},"FormComponents":{"defaultExport":false,"path":"exports","filter":{"properties":{"true":["INPUT_PLACEHOLDER","LABEL_SELECTED"]}}},"GuildBadge":{"defaultExport":true,"filter":{"strings":{"default":{"true":["VERIFIED_AND_PARTNERED","renderBadge","flowerStarClassName"]}}}},"GuildIconComponents":{"defaultExport":true,"filter":{"strings":{"default":{"true":["SMOL","badgeStrokeColor"]}}}},"GuildTooltipMutedText":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".muteConfig","color:\"text-muted\""]}}}},"Header":{"defaultExport":true,"filter":{"properties":{"true":["Sizes","Tags"]}}},"Heading":{"defaultExport":true,"filter":{"strings":{"default":{"true":["data-excessive",".defaultColor"]}}}},"HeaderBarComponents":{"defaultExport":true,"filter":{"strings":{"default":{"true":["isAuthenticated",".HEADER_BAR"]}}}},"ImageComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["containerRef","zoomable","LOADING"]}}}},"ImageModal":{"defaultExport":true,"filter":{"strings":{"default":{"true":["mobileCloseWrapper","closeAction"]}}}},"LayerContainerComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["layerContainerElement","LayerProvider"]}}}},"LazyImage":{"defaultExport":true,"filter":{"strings":{"default":{"true":["LOADING","visibilityObserver"]}}}},"ListHeader":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".container","\"h2\"","[\"aria-label\"]"]}}}},"Mask":{"defaultExport":true,"filter":{"properties":{"true":"Masks"}}},"Menu":{"defaultExport":true,"filter":{"strings":{"function":{"true":["keyboardModeEnabled"]},"default":{"true":["Menu API only allows Items and groups of Items as children"]}}}},"MessageGroup":{"defaultExport":true,"filter":{"strings":{"default":{"true":["renderThreadAccessory","HAS_THREAD","allowHeading"],"false":["THREAD_STARTER"]}}}},"MessagesPopoutComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["canCloseAllMessages","loadingMore"]}}}},"ModalComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".renderModal,","onCloseRequest"]}}}},"Paginator":{"defaultExport":true,"filter":{"strings":{"default":{"true":["totalPageCount","selectedPage"]}}}},"PanelButton":{"defaultExport":true,"filter":{"strings":{"default":{"true":["Masks.PANEL_BUTTON"]}}}},"PopoutFocusLock":{"defaultExport":true,"filter":{"strings":{"function":{"true":["impressionName"]},"default":{"true":["impressionName","useImperativeHandle"]}}}},"PrivateChannelItems":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["handleCloseButtonMouseDown","LEAVE_GROUP_DM_MANAGED_BODY"]}}}},"RoleMention":{"defaultExport":true,"filter":{"strings":{"function":{"true":["inlinePreview"]},"default":{"true":["rolePopout","inlinePreview"]}}}},"Scrollers":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".fade",".auto","paddingFix","getScrollerNode"]}}}},"SpinnerComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["WANDERING_CUBES","CHASING_DOTS"]}}}},"StatusComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["{mask",".mask,","UNKNOWN"]}}}},"Text":{"defaultExport":true,"filter":{"strings":{"default":{"true":["lineClamp:",".selectable",".defaultColor"]}}}},"TextElement":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".strong,",".STANDARD"]}}}},"Timeout":{"defaultExport":true,"filter":{"prototypes":{"true":["start","stop","isStarted"]}}},"UserBadges":{"defaultExport":true,"filter":{"properties":{"true":["BadgeSizes"]}}},"UserBadgeComponents":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".PROFILE_USER_BADGES","SIZE_24"]}}}},"UserPopout":{"defaultExport":true,"filter":{"strings":{"default":{"true":["\"userId\"","\"Unexpected missing user\"","getUser"]}}}},"UserPopoutSection":{"defaultExport":true,"filter":{"strings":{"default":{"true":[".section,",".lastSection"]}}}},"UserSummaryItem":{"defaultExport":true,"filter":{"strings":{"default":{"true":["popoutUserId:",".clickableAvatar"]}}}},"VideoForwardRef":{"defaultExport":true,"filter":{"strings":{"function":{"true":["externalRef"]},"default":{"true":["HTMLSourceElement","autoPlay"]}}}}},"classes":{"Channel":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["getRecipientId","isManaged","getGuildId"]}}},"Guild":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["getIconURL","getMaxEmojiSlots","getRole"]}}},"Invite":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["getExpiresAt","isExpired"]}}},"Message":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["getReaction","isEdited","getChannelId"]}}},"Messages":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["jumpToMessage","hasAfterCached","forEach"]}}},"Timestamp":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["add","dayOfYear","hasAlignedHourOffset"]}}},"User":{"defaultExport":true,"path":"constructor","filter":{"properties":{"true":["addGuildAvatarHash","isLocalBot"]}}}},"apis":{"AccountDetails":{"defaultExport":true,"filter":{"properties":{"true":["usernameContainer","container"]}}},"AccountDetailsButtons":{"defaultExport":true,"filter":{"properties":{"true":["button","enabled","disabled"]}}},"Anchor":{"defaultExport":true,"filter":{"properties":{"true":["anchor","anchorUnderlineOnHover"]}}},"AnimationContainer":{"defaultExport":true,"filter":{"properties":{"true":["animatorLeft","didRender"]}}},"AppBase":{"defaultExport":true,"filter":{"properties":{"true":["container","base"]}}},"AppInner":{"defaultExport":true,"filter":{"properties":{"true":["app","layers"]}}},"AppMount":{"defaultExport":true,"filter":{"properties":{"true":["appMount"]}}},"ApplicationStore":{"defaultExport":true,"filter":{"properties":{"true":["applicationStore","navigation"]}}},"AppOuter":{"defaultExport":true,"filter":{"properties":{"true":["app","mobileApp"]}}},"Attachment":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","video","metadataDownload"]}}},"AuditLog":{"defaultExport":true,"filter":{"properties":{"true":["auditLog","divider"]}}},"AuthBox":{"defaultExport":true,"filter":{"properties":{"true":["authBox"]}}},"Autocomplete":{"defaultExport":true,"filter":{"properties":{"true":["autocomplete","autocompleteRow"]}}},"AutocompleteAliases":{"defaultExport":true,"filter":{"properties":{"true":["autocomplete","stickerAutoComplete"]}}},"Avatar":{"defaultExport":true,"filter":{"properties":{"true":["avatar","mask","wrapper"]}}},"AvatarIcon":{"defaultExport":true,"filter":{"properties":{"true":["iconActiveLarge","iconActiveMedium"]}}},"Backdrop":{"defaultExport":true,"filter":{"properties":{"true":["backdrop","withLayer"]}}},"Badge":{"defaultExport":true,"filter":{"properties":{"true":["numberBadge","textBadge","iconBadge"]}}},"BotTag":{"defaultExport":true,"filter":{"properties":{"true":["botTag","botTagInvert"]}}},"Button":{"defaultExport":true,"filter":{"properties":{"true":["colorBrand","lookBlank"]}}},"CallCurrent":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","fullScreen"]}}},"CallDetails":{"defaultExport":true,"filter":{"properties":{"true":["container","hotspot"]}}},"CallIncoming":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","mainChannelInfo"]}}},"Card":{"defaultExport":true,"filter":{"properties":{"true":["card","cardBrand"]}}},"Category":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","children","addButtonIcon"]}}},"CategoryArrow":{"defaultExport":true,"filter":{"properties":{"true":["arrow","open"]}}},"ChangeLog":{"defaultExport":true,"filter":{"properties":{"true":["added","fixed","improved","progress"]}}},"Channel":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","content","modeSelected"]}}},"ChannelContainer":{"defaultExport":true,"filter":{"properties":{"true":["actionIcon","containerDefault"]}}},"ChannelContainerMentionsBadge":{"defaultExport":true,"filter":{"properties":{"true":["mentionsBadge","iconBase"]}}},"ChannelLimit":{"defaultExport":true,"filter":{"properties":{"true":["users","total","wrapper"]}}},"ChannelTextArea":{"defaultExport":true,"filter":{"properties":{"true":["textArea","buttons"]}}},"ChannelTextAreaAttachButton":{"defaultExport":true,"filter":{"properties":{"true":["attachButton","attachWrapper"]}}},"ChannelTextAreaButton":{"defaultExport":true,"filter":{"properties":{"true":["buttonWrapper","active"]}}},"ChannelTextAreaCharCounter":{"defaultExport":true,"filter":{"properties":{"true":["characterCount","error"]}}},"ChannelTextAreaSlate":{"defaultExport":true,"filter":{"properties":{"true":["slateContainer","placeholder"]}}},"ChatThreadSidebar":{"defaultExport":true,"filter":{"properties":{"true":["container","floating","resizeHandle"]}}},"ChatWindow":{"defaultExport":true,"filter":{"properties":{"true":["chat","channelTextArea","chatContent"]}}},"Checkbox":{"defaultExport":true,"filter":{"properties":{"true":["checkboxWrapper","round"]}}},"ColorPicker":{"defaultExport":true,"filter":{"properties":{"true":["customColorPicker","colorPickerDropper"]}}},"ColorPickerInner":{"defaultExport":true,"filter":{"properties":{"true":["hue","saturation"]}}},"Combobox":{"defaultExport":true,"filter":{"properties":{"true":["combobox","itemLabel"]}}},"Cursor":{"defaultExport":true,"filter":{"properties":{"true":["cursorDefault","userSelectNone"]}}},"CustomStatus":{"defaultExport":true,"filter":{"properties":{"true":["customStatusSoloEmoji","customStatusText","customStatus"]}}},"CustomStatusIcon":{"defaultExport":true,"filter":{"properties":{"true":["textRuler","emoji","icon"]}}},"CustomStatusModal":{"defaultExport":true,"filter":{"properties":{"true":["inputContainer","emojiButton","modalRoot"]}}},"CustomStatusPopout":{"defaultExport":true,"filter":{"properties":{"true":["customStatusItem","customEmoji"]}}},"DmAddPopout":{"defaultExport":true,"filter":{"properties":{"true":["popout","searchBarComponent"]}}},"DmAddPopoutItems":{"defaultExport":true,"filter":{"properties":{"true":["friendSelected","friendWrapper"]}}},"DefaultChannelWelcome":{"defaultExport":true,"filter":{"properties":{"true":["titleName","card","playCircleIcon"]}}},"DownloadLink":{"defaultExport":true,"filter":{"properties":{"true":["downloadLink"]}}},"Embed":{"defaultExport":true,"filter":{"properties":{"true":["embed","embedAuthorIcon"]}}},"EmbedActions":{"defaultExport":true,"filter":{"properties":{"true":["iconPlay","iconWrapperActive"]}}},"Emoji":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["emoji"]}}},"EmojiButton":{"defaultExport":true,"filter":{"properties":{"true":["emojiButton","sprite"]}}},"EmojiPicker":{"defaultExport":true,"filter":{"properties":{"true":["emojiPicker","inspector"]}}},"EmojiPickerDiversitySelector":{"defaultExport":true,"filter":{"properties":{"true":["diversityEmojiItemImage","diversitySelectorOptions"]}}},"EmojiPickerItem":{"defaultExport":true,"filter":{"properties":{"true":["emojiSpriteImage"]}}},"EmojiPickerInspector":{"defaultExport":true,"filter":{"properties":{"true":["inspector","graphicPrimary"]}}},"EmojiPickerInspectorEmoji":{"defaultExport":true,"filter":{"properties":{"true":["emoji","glyphEmoji"]}}},"ErrorScreen":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","flexWrapper","note"]}}},"ExpressionPicker":{"defaultExport":true,"filter":{"properties":{"true":["contentWrapper","navButton","navList"]}}},"FavButton":{"defaultExport":true,"filter":{"properties":{"true":["gifFavoriteButton","selected","icon"]}}},"File":{"defaultExport":true,"filter":{"properties":{"true":["downloadButton","fileNameLink"]}}},"Flex":{"defaultExport":true,"filter":{"keys":{"length":24,"compare":"<"},"properties":{"true":["alignBaseline","alignCenter"]}}},"FlexChild":{"defaultExport":true,"filter":{"properties":{"true":["flexChild","flex"]}}},"FlowerStar":{"defaultExport":true,"filter":{"properties":{"true":["flowerStarContainer","flowerStar"]}}},"FormText":{"defaultExport":true,"filter":{"properties":{"true":["description","modeDefault"]}}},"ForumPage":{"defaultExport":true,"filter":{"properties":{"true":["newPostsButton","list","searchIcon"]}}},"Game":{"defaultExport":true,"filter":{"properties":{"true":["game","gameName"]}}},"GameIcon":{"defaultExport":true,"filter":{"properties":{"true":["gameIcon","small","xsmall"]}}},"GameLibraryTable":{"defaultExport":true,"filter":{"properties":{"true":["stickyHeader","emptyStateText"]}}},"GifFavoriteButton":{"defaultExport":true,"filter":{"properties":{"true":["gifFavoriteButton","showPulse"]}}},"GoLiveDetails":{"defaultExport":true,"filter":{"properties":{"true":["panel","gameWrapper"]}}},"Guild":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","lowerBadge","svg"]}}},"GuildChannels":{"defaultExport":true,"filter":{"properties":{"true":["positionedContainer","unreadBar"]}}},"GuildChannelsWrapper":{"defaultExport":true,"filter":{"properties":{"true":["hubContainer","container"]}}},"GuildDiscovery":{"defaultExport":true,"filter":{"properties":{"true":["pageWrapper","guildList"]}}},"GuildDm":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["pill"]}}},"GuildEdges":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","target","centerTarget"]}}},"GuildFolder":{"defaultExport":true,"filter":{"properties":{"true":["folder","expandedFolderIconWrapper"]}}},"GuildHeader":{"defaultExport":true,"filter":{"properties":{"true":["header","name","bannerImage"]}}},"GuildHeaderButton":{"defaultExport":true,"filter":{"properties":{"true":["button","open"]}}},"GuildItem":{"defaultExport":true,"filter":{"keys":{"length":10,"compare":"<"},"properties":{"true":["listItem","participating"]}}},"GuildIcon":{"defaultExport":true,"filter":{"properties":{"true":["acronym","selected","wrapper"]}}},"GuildInvite":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","guildIconJoined"]}}},"GuildsButton":{"defaultExport":true,"filter":{"keys":{"length":6,"compare":"<"},"properties":{"true":["circleIconButton","circleIcon"]}}},"GuildsDragPlaceholder":{"defaultExport":true,"filter":{"keys":{"length":6,"compare":"<"},"properties":{"true":["dragInner","placeholderMask"]}}},"GuildSeparator":{"defaultExport":true,"filter":{"properties":{"true":["guildSeparator"]}}},"GuildServer":{"defaultExport":true,"filter":{"properties":{"true":["blobContainer","pill"]}}},"GuildSettingsBanned":{"defaultExport":true,"filter":{"properties":{"true":["bannedUser","bannedUserAvatar"]}}},"GuildSettingsEmoji":{"defaultExport":true,"filter":{"properties":{"true":["emojiRow","emojiAliasPlaceholder"]}}},"GuildSettingsInvite":{"defaultExport":true,"filter":{"properties":{"true":["countdownColumn","inviteSettingsInviteRow"]}}},"GuildSettingsMember":{"defaultExport":true,"filter":{"properties":{"true":["member","membersFilterPopout"]}}},"GuildsListItem":{"defaultExport":true,"filter":{"properties":{"true":["listItemWrapper","listItemTooltip"]}}},"GuildsInboxIcon":{"defaultExport":true,"filter":{"properties":{"true":["iconButton","selected"]}}},"GuildsItems":{"defaultExport":true,"filter":{"properties":{"true":["circleIcon","guildsError"]}}},"GuildsWrapper":{"defaultExport":true,"filter":{"properties":{"true":["scroller","unreadMentionsBar","wrapper"]}}},"HeaderBar":{"defaultExport":true,"filter":{"properties":{"true":["container","children","toolbar"]}}},"HeaderBarExtras":{"defaultExport":true,"filter":{"properties":{"true":["headerBarLoggedOut","search"]}}},"HeaderBarSearch":{"defaultExport":true,"filter":{"properties":{"true":["search","searchBar","open"]}}},"HeaderBarTopic":{"defaultExport":true,"filter":{"properties":{"true":["topic","expandable","content"]}}},"Heading":{"defaultExport":true,"filter":{"properties":{"true":["eyebrow","code"]}}},"HomeIcon":{"defaultExport":true,"filter":{"properties":{"true":["homeIcon"]}}},"HotKeyRecorder":{"defaultExport":true,"filter":{"properties":{"true":["editIcon","recording"]}}},"HoverCard":{"defaultExport":true,"filter":{"properties":{"true":["card","active"]}}},"HoverCardRemoveButton":{"defaultExport":true,"filter":{"properties":{"true":["button","filled","default"]}}},"IconDirection":{"defaultExport":true,"filter":{"properties":{"true":["directionDown","directionUp"]}}},"ImageAssets":{"defaultExport":true,"filter":{"properties":{"true":["pngImage","stickerAsset"]}}},"ImageModal":{"defaultExport":true,"filter":{"keys":{"length":4,"compare":"<"},"properties":{"true":["image","modal"]}}},"ImageModalNavigation":{"defaultExport":true,"filter":{"properties":{"true":["nav","navPrev","navNext"]}}},"ImageWrapper":{"defaultExport":true,"filter":{"properties":{"true":["clickable","imageWrapperBackground"]}}},"Input":{"defaultExport":true,"filter":{"properties":{"true":["inputMini","inputDefault"]}}},"InviteModal":{"defaultExport":true,"filter":{"properties":{"true":["inviteRow","modal"]}}},"Item":{"defaultExport":true,"filter":{"properties":{"true":["item","side","header"]}}},"ItemRole":{"defaultExport":true,"filter":{"properties":{"true":["role","dragged"]}}},"ItemLayerContainer":{"defaultExport":true,"filter":{"properties":{"true":["layer","layerContainer"]}}},"Layers":{"defaultExport":true,"filter":{"properties":{"true":["layer","layers"]}}},"LiveTag":{"defaultExport":true,"filter":{"properties":{"true":["liveLarge","live"]}}},"LoadingScreen":{"defaultExport":true,"filter":{"properties":{"true":["container","problemsText","problems"]}}},"Margins":{"defaultExport":true,"filter":{"properties":{"true":["marginBottom4","marginCenterHorz"]}}},"Menu":{"defaultExport":true,"filter":{"properties":{"true":["menu","colorPremiumGradient","item"]}}},"MenuCaret":{"defaultExport":true,"filter":{"properties":{"true":["arrow","open"]}}},"MenuReactButton":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","icon","focused","button"]}}},"MenuSlider":{"defaultExport":true,"filter":{"properties":{"true":["slider","sliderContainer"]}}},"Member":{"defaultExport":true,"filter":{"properties":{"true":["member","ownerIcon"]}}},"MemberSince":{"defaultExport":true,"filter":{"properties":{"true":["memberSinceContainer","discordIcon"]}}},"MembersWrapper":{"defaultExport":true,"filter":{"properties":{"true":["membersWrap","membersGroup"]}}},"Message":{"defaultExport":true,"filter":{"properties":{"true":["message","mentioned"]}}},"MessageAccessory":{"defaultExport":true,"filter":{"properties":{"true":["embedWrapper","gifFavoriteButton"]}}},"MessageAttachment":{"defaultExport":true,"filter":{"properties":{"true":["hiddenSpoilers","spoiler"]}}},"MessageBlocked":{"defaultExport":true,"filter":{"properties":{"true":["blockedMessageText","expanded"]}}},"MessageBody":{"defaultExport":true,"filter":{"properties":{"true":["markupRtl","edited"]}}},"MessageDivider":{"defaultExport":true,"filter":{"properties":{"true":["isUnread","divider"]}}},"MessageElements":{"defaultExport":true,"filter":{"properties":{"true":["messageGroupBlockedBtn","dividerRed"]}}},"MessageFile":{"defaultExport":true,"filter":{"properties":{"true":["cancelButton","filenameLinkWrapper"]}}},"MessageLocalBot":{"defaultExport":true,"filter":{"properties":{"true":["ephemeralMessage","icon"]}}},"MessageMarkup":{"defaultExport":true,"filter":{"properties":{"true":["markup"]}}},"MessagePopout":{"defaultExport":true,"filter":{"properties":{"true":["message","spacing"]}}},"MessageOperations":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["operations"]}}},"MessageReactions":{"defaultExport":true,"filter":{"properties":{"true":["reactions","reactionMe"]}}},"MessageReactionsModal":{"defaultExport":true,"filter":{"properties":{"true":["reactor","reactionSelected"]}}},"MessageReply":{"defaultExport":true,"filter":{"properties":{"true":["container","text","closeButton"]}}},"MessagesPopout":{"defaultExport":true,"filter":{"properties":{"true":["messagesPopoutWrap","jumpButton"]}}},"MessagesPopoutButtons":{"defaultExport":true,"filter":{"properties":{"true":["secondary","tertiary","button"]}}},"MessagesPopoutTabBar":{"defaultExport":true,"filter":{"properties":{"true":["header","tabBar","active"]}}},"MessagesLoading":{"defaultExport":true,"filter":{"properties":{"true":["attachment","blob","cozy"]}}},"MessagesWelcome":{"defaultExport":true,"filter":{"properties":{"true":["emptyChannelIcon","description","header"]}}},"MessagesWelcomeButton":{"defaultExport":true,"filter":{"keys":{"length":2,"compare":"=="},"properties":{"true":["button","buttonIcon"]}}},"MessagesWelcomeThread":{"defaultExport":true,"filter":{"properties":{"true":["iconWrapper","threadCreatorName"]}}},"MessagesWrap":{"defaultExport":true,"filter":{"properties":{"true":["messagesWrapper","messageGroupBlocked"]}}},"MessageSystem":{"defaultExport":true,"filter":{"properties":{"true":["container","actionAnchor"]}}},"MessageSystemAccessories":{"defaultExport":true,"filter":{"properties":{"true":["name","spine","cta"]}}},"MessageToolbar":{"defaultExport":true,"filter":{"properties":{"true":["container","icon","isHeader"]}}},"MessageToolbarItems":{"defaultExport":true,"filter":{"properties":{"true":["wrapper","button","separator"]}}},"Modal":{"defaultExport":true,"filter":{"properties":{"true":["root","small","medium"]}}},"ModalCarousel":{"defaultExport":true,"filter":{"properties":{"true":["carouselModal","carousel"]}}},"ModalCarouselWrapper":{"defaultExport":true,"filter":{"properties":{"true":["modalCarouselWrapper","zoomedCarouselModalRoot"]}}},"ModalDivider":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["divider"]}}},"ModalItems":{"defaultExport":true,"filter":{"properties":{"true":["guildName","checkboxContainer"]}}},"ModalMiniContent":{"defaultExport":true,"filter":{"properties":{"true":["modal","content","maxModalWidth"]}}},"ModalSub":{"defaultExport":true,"filter":{"properties":{"true":["modal","sizeLarge"]}}},"NameContainer":{"defaultExport":true,"filter":{"properties":{"true":["nameAndDecorators","name"]}}},"NameContainerState":{"defaultExport":true,"filter":{"properties":{"true":["interactive","selected","muted"]}}},"NameTag":{"defaultExport":true,"filter":{"properties":{"true":["bot","nameTag"]}}},"NitroStore":{"defaultExport":true,"filter":{"properties":{"true":["applicationStore","marketingHeader"]}}},"NoteTextarea":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["textarea"]}}},"Notice":{"defaultExport":true,"filter":{"properties":{"true":["notice","platformIcon"]}}},"NoticePlatform":{"defaultExport":true,"filter":{"properties":{"true":["iconAndroid","textLink"]}}},"Pagination":{"defaultExport":true,"filter":{"properties":{"true":["pageButton","pageControl"]}}},"PeopleItem":{"defaultExport":true,"filter":{"properties":{"true":["peopleListItem","active"]}}},"PeopleItemInfo":{"defaultExport":true,"filter":{"keys":{"length":2,"compare":"=="},"properties":{"true":["listItemContents","actions"]}}},"PeopleItemUser":{"defaultExport":true,"filter":{"properties":{"true":["userInfo","discordTag"]}}},"PeopleList":{"defaultExport":true,"filter":{"properties":{"true":["peopleList","emptyStateContainer"]}}},"Peoples":{"defaultExport":true,"filter":{"properties":{"true":["peopleColumn","tabBar"]}}},"PeoplesNowPlayingMember":{"defaultExport":true,"filter":{"properties":{"true":["memberItem","unknown"]}}},"PictureInPicture":{"defaultExport":true,"filter":{"properties":{"true":["pictureInPicture","pictureInPictureWindow"]}}},"PillWrapper":{"defaultExport":true,"filter":{"keys":{"length":2,"compare":"=="},"properties":{"true":["item","wrapper"]}}},"PrivateChannel":{"defaultExport":true,"filter":{"properties":{"true":["channel","closeButton"]}}},"PrivateChannelList":{"defaultExport":true,"filter":{"properties":{"true":["privateChannels","searchBar"]}}},"PrivateChannelListScroller":{"defaultExport":true,"filter":{"properties":{"true":["privateChannelsHeaderContainer","headerText"]}}},"PopoutActivity":{"defaultExport":true,"filter":{"properties":{"true":["ellipsis","activityActivityFeed"]}}},"QuickMessage":{"defaultExport":true,"filter":{"keys":{"length":1,"compare":"=="},"properties":{"true":["input"]}}},"QuickSelect":{"defaultExport":true,"filter":{"properties":{"true":["quickSelectArrow","selected"]}}},"QuickSwitch":{"defaultExport":true,"filter":{"properties":{"true":["result","guildIconContainer"]}}},"QuickSwitchWrap":{"defaultExport":true,"filter":{"properties":{"true":["container","miscContainer"]}}},"RadioGroup":{"defaultExport":true,"filter":{"properties":{"true":["radioBar","item"]}}},"Reactions":{"defaultExport":true,"filter":{"properties":{"true":["reactionBtn","reaction"]}}},"RecentMentions":{"defaultExport":true,"filter":{"properties":{"true":["recentMentionsPopout"]}}},"RecentMentionsHeader":{"defaultExport":true,"filter":{"properties":{"true":["channelName","channelHeader","dmIcon"]}}},"Role":{"defaultExport":true,"filter":{"properties":{"true":["roleName","roleRemoveIcon"]}}},"RoleCircle":{"defaultExport":true,"filter":{"properties":{"true":["roleCircle","flex"]}}},"RoleIcon":{"defaultExport":true,"filter":{"keys":{"length":4,"compare":"<"},"properties":{"true":["clickable","roleIcon"]}}},"Roles":{"defaultExport":true,"filter":{"properties":{"true":["rolePill","roles","rolePillBorder"]}}},"Scrollbar":{"defaultExport":true,"filter":{"properties":{"true":["scrollbar","scrollbarGhost"]}}},"Scroller":{"defaultExport":true,"filter":{"properties":{"true":["scrollerBase","none","fade"]}}},"SearchBar":{"defaultExport":true,"filter":{"properties":{"true":["clear","container","pointer"]}}},"SearchPopout":{"defaultExport":true,"filter":{"properties":{"true":["datePicker","searchResultChannelIconBackground"]}}},"SearchPopoutWrap":{"defaultExport":true,"filter":{"properties":{"true":["container","queryContainer"]}}},"SearchResults":{"defaultExport":true,"filter":{"properties":{"true":["noResults","searchResultsWrap"]}}},"SearchResultsElements":{"defaultExport":true,"filter":{"properties":{"true":["totalResults","searchHeaderTabList"]}}},"SearchResultsGroup":{"defaultExport":true,"filter":{"properties":{"true":["searchResultGroup","channelName"]}}},"SearchResultsMessage":{"defaultExport":true,"filter":{"properties":{"true":["message","searchResult"]}}},"Select":{"defaultExport":true,"filter":{"properties":{"true":["select","error","errorMessage"]}}},"SelectFilterPopout":{"defaultExport":true,"filter":{"properties":{"true":["selectFilterPopout","avatar","row"]}}},"SelectSearchable":{"defaultExport":true,"filter":{"properties":{"true":["searchable","option","selectedIcon"]}}},"SettingsCloseButton":{"defaultExport":true,"filter":{"properties":{"true":["closeButton","keybind"]}}},"SettingsItems":{"defaultExport":true,"filter":{"properties":{"true":["labelRow","note"]}}},"SettingsTable":{"defaultExport":true,"filter":{"properties":{"true":["headerOption","headerName"]}}},"SettingsWindow":{"defaultExport":true,"filter":{"properties":{"true":["contentRegion","standardSidebarView"]}}},"SettingsWindowScroller":{"defaultExport":true,"filter":{"properties":{"true":["sidebarScrollable","content","scroller"]}}},"Slider":{"defaultExport":true,"filter":{"properties":{"true":["slider","grabber"]}}},"Spinner":{"defaultExport":true,"filter":{"properties":{"true":["spinner","chasingDots"]}}},"Spoiler":{"defaultExport":true,"filter":{"properties":{"true":["spoilerContainer","hidden"]}}},"Switch":{"defaultExport":true,"filter":{"properties":{"true":["container","slider","input"]}}},"Table":{"defaultExport":true,"filter":{"properties":{"true":["stickyHeader","sortIcon"]}}},"Text":{"defaultExport":true,"filter":{"properties":{"true":["defaultColor","defaultMarginh1"]}}},"TextColor":{"defaultExport":true,"filter":{"properties":{"true":["colorStandard","colorMuted","colorError"]}}},"TextColor2":{"defaultExport":true,"filter":{"properties":{"true":["muted","wrapper","base"]}}},"TextSize":{"defaultExport":true,"filter":{"properties":{"true":["size10","size14","size20"]}}},"TextStyle":{"defaultExport":true,"filter":{"properties":{"true":["strikethrough","underline","bold"]}}},"ThreadCard":{"defaultExport":true,"filter":{"properties":{"true":["threadName","container","facepile"]}}},"Tip":{"defaultExport":true,"filter":{"properties":{"true":["pro","inline"]}}},"TitleBar":{"defaultExport":true,"filter":{"properties":{"true":["titleBar","wordmark"]}}},"Tooltip":{"defaultExport":true,"filter":{"properties":{"true":["tooltip","tooltipTop"]}}},"TooltipGuild":{"defaultExport":true,"filter":{"properties":{"true":["rowIcon","rowGuildName"]}}},"Typing":{"defaultExport":true,"filter":{"properties":{"true":["cooldownWrapper","typing"]}}},"UnreadBar":{"defaultExport":true,"filter":{"properties":{"true":["active","bar","unread"]}}},"UploadModal":{"defaultExport":true,"filter":{"properties":{"true":["uploadModal","bgScale"]}}},"UserBadges":{"defaultExport":true,"filter":{"properties":{"true":["profileBadge","container"]}}},"UserBanner":{"defaultExport":true,"filter":{"properties":{"true":["popoutBanner","popoutBannerPremium"]}}},"UserPopoutFooter":{"defaultExport":true,"filter":{"properties":{"true":["wumpusTooltip","messageInputContainer"]}}},"UserPopoutHeader":{"defaultExport":true,"filter":{"properties":{"true":["avatarHint","profileBadges","avatarWrapper"]}}},"UserPopoutSection":{"defaultExport":true,"filter":{"properties":{"true":["section","lastSection"]}}},"UserPopoutSectionTitle":{"defaultExport":true,"filter":{"keys":{"length":2,"compare":"=="},"properties":{"true":["title","body"]}}},"UserPopoutUsernameSection":{"defaultExport":true,"filter":{"properties":{"true":["userTagNoNickname","nickname","headerBotTag"]}}},"UserProfile":{"defaultExport":true,"filter":{"properties":{"true":["root","tabBarContainer"]}}},"UserProfileHeader":{"defaultExport":true,"filter":{"properties":{"true":["additionalActionsIcon","header","relationshipButtons"]}}},"UserProfileInfoSection":{"defaultExport":true,"filter":{"properties":{"true":["userInfoSection","note"]}}},"UserProfileList":{"defaultExport":true,"filter":{"properties":{"true":["listAvatar","listRow"]}}},"UserProfileListGuild":{"defaultExport":true,"filter":{"properties":{"true":["guildAvatar","guildAvatarWithoutIcon"]}}},"UserProfileUsernameSection":{"defaultExport":true,"filter":{"properties":{"true":["customStatusSoloEmoji","nameTag","discriminator"]}}},"UserSettingsAppearancePreview":{"defaultExport":true,"filter":{"properties":{"true":["preview","firstMessage"]}}},"UserSettingsSocialLinks":{"defaultExport":true,"filter":{"properties":{"true":["socialLinks","link"]}}},"UserSummaryItem":{"defaultExport":true,"filter":{"properties":{"true":["avatarContainerMasked","container"]}}},"UserTheme":{"defaultExport":true,"filter":{"properties":{"true":["userPopoutOuter","userProfileOuter"]}}},"Video":{"defaultExport":true,"filter":{"properties":{"true":["video","fullScreen"]}}},"VoiceChannel":{"defaultExport":true,"filter":{"properties":{"true":["avatarSpeaking","voiceUser"]}}},"VoiceChannelLimit":{"defaultExport":true,"filter":{"properties":{"true":["total","users","wrapper"]}}},"VoiceChannelList":{"defaultExport":true,"filter":{"properties":{"true":["list","collapsed"]}}},"VoiceDetails":{"defaultExport":true,"filter":{"properties":{"true":["container","customStatusContainer"]}}},"VoiceDetailsPing":{"defaultExport":true,"filter":{"properties":{"true":["rtcConnectionQualityBad","rtcConnectionQualityFine"]}}},"WebhookCard":{"defaultExport":true,"filter":{"properties":{"true":["pulseBorder","copyButton"]}}},"AckActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["type:\"BULK_ACK\""]}}}},"ActivityActions":{"defaultExport":true,"filter":{"properties":{"true":["sendActivityInvite","updateActivity"]}}},"AnalyticsActions":{"defaultExport":true,"filter":{"properties":{"true":["isThrottled","track"]}}},"AnimationActions":{"defaultExport":true,"filter":{"properties":{"true":["spring","decay"]}}},"APIEncodeActions":{"defaultExport":true,"filter":{"properties":{"true":["stringify","parse","encode"]}}},"APIActions":{"defaultExport":true,"filter":{"properties":{"true":["getAPIBaseURL"]}}},"AppearanceSettingsActions":{"defaultExport":true,"filter":{"properties":{"true":["updateLocale","updateTheme"]}}},"ApplicationAssetActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["ApplicationAssetUtils","getAssetImage"]}}}},"ArrayActions":{"defaultExport":true,"filter":{"properties":{"true":["isArrayLike","zipObject"]}}},"ChannelActions":{"defaultExport":true,"filter":{"properties":{"true":["selectChannel","selectPrivateChannel"]}}},"ChatRestrictionActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["openWarningPopout","userCanUsePremiumMessageLength"]}}}},"ConnectionProviderActions":{"defaultExport":true,"filter":{"properties":{"true":["get","isSupported","filter"]}}},"ConnectionActions":{"defaultExport":true,"filter":{"properties":{"true":["setShowActivity","setVisibility"]}}},"ContextMenuActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["renderLazy","type:\"CONTEXT_MENU_CLOSE\""]}}}},"CurrentUserStore":{"defaultExport":true,"filter":{"properties":{"true":["getCurrentUser"]}}},"DesktopNotificationActions":{"defaultExport":true,"filter":{"properties":{"true":["showNotification","requestPermission"]}}},"DispatchApiActions":{"defaultExport":true,"filter":{"properties":{"true":["dispatch","isDispatching"]}}},"DispatchActions":{"defaultExport":true,"filter":{"strings":{"default":{"true":["dispatchToLastSubscribed","setMaxListeners"]}}}},"EmojiActions":{"defaultExport":true,"filter":{"properties":{"true":["translateInlineEmojiToSurrogates","translateSurrogatesToInlineEmoji"]}}},"EmojiStateActions":{"defaultExport":true,"filter":{"properties":{"true":["getURL","isEmojiDisabled"]}}},"Env":{"defaultExport":true,"filter":{"properties":{"true":["env"]}}},"FileRequestActions":{"defaultExport":true,"filter":{"properties":{"true":["getFileData","getImageData"]}}},"FolderSettingsActions":{"defaultExport":false,"path":"exports","filter":{"properties":{"true":["updateLocale","updateTheme"]}}},"GuildBoostActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["getPremiumTypeSubscription","PREMIUM_GUILD_TIER_1"]}}}},"GuildNotificationsActions":{"defaultExport":true,"filter":{"properties":{"true":["updateChannelOverrideSettings","updateGuildNotificationSettings"]}}},"GuildActions":{"defaultExport":true,"filter":{"properties":{"true":["selectGuild","transitionToGuildSync"]}}},"HistoryActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["transitionTo - Transitioning to external path"]}}}},"IconActions":{"defaultExport":true,"filter":{"properties":{"true":["getGuildIconURL","getGuildBannerURL"]}}},"InviteActions":{"defaultExport":true,"filter":{"properties":{"true":["acceptInvite","createInvite"]}}},"InternalReactActions":{"defaultExport":true,"filter":{"properties":{"true":["jsx","jsxs","Fragment"]}}},"KeyCodeActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["Unrecognized DeviceType","GAMEPAD"]}}}},"KeyEvents":{"defaultExport":true,"filter":{"properties":{"true":["aliases","code","codes"]}}},"LoginActions":{"defaultExport":true,"filter":{"properties":{"true":["login","logout"]}}},"MediaComponentActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["renderAdjacentContent","imageContent"]}}}},"MediaEngineActions":{"defaultExport":true,"filter":{"properties":{"true":["setOutputDevice","setInputDevice"]}}},"MemberDisplayActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["getUserProfile","getGuildMemberProfile","_userProfile"]}}}},"MentionActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["rawMessage","mention_everyone","mentionUsers"]}}}},"MessageAuthorActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".friendNickname","colorRoleName:null"]}}}},"MessageComponentActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["ANIMATE_CHAT_AVATAR","interactionUsernameProfile"]}}}},"MessageManageActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["showMentionToggle","SEND_FAILED","shouldMention"]}}}},"MessageParser":{"defaultExport":true,"filter":{"properties":{"true":["parseEmbedTitle","defaultRules"]}}},"MessagePinActions":{"defaultExport":true,"filter":{"properties":{"true":["pinMessage","unpinMessage"]}}},"MessageActions":{"defaultExport":true,"filter":{"properties":{"true":["receiveMessage","editMessage"]}}},"ModalActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["modalKey","instant","contextKey"],"false":["LOGIN_REQUIRED_ACTIONS_MODAL_KEY"]}}}},"NitroActions":{"defaultExport":true,"filter":{"properties":{"true":["canUseIncreasedMessageLength","canUsePremiumGuildMemberProfile"]}}},"NotificationSettingsActions":{"defaultExport":true,"filter":{"properties":{"true":["setDesktopType","setTTSType"]}}},"PlatformActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["return/^win/.test"]}}}},"PermissionRoleActions":{"defaultExport":true,"filter":{"properties":{"true":["can","ALLOW","DENY"]}}},"PreferencesContext":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["reducedMotion","forcedColors","alwaysShowLinkDecorations","createContext"]}}}},"PrivateChannelActions":{"defaultExport":true,"filter":{"properties":{"true":["addRecipient","openPrivateChannel"]}}},"QuerySearchActions":{"defaultExport":true,"filter":{"properties":{"true":["queryGuilds","queryGroupDMs"]}}},"ReactionEmojiActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["optionallyDiverseSequence,animated","convertSurrogateToName"]}}}},"ReactionActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["\"MESSAGE_REACTION_ADD\"","\"MESSAGE_REACTION_REMOVE\"","\"@me\""]}}}},"RecentMentionActions":{"defaultExport":true,"filter":{"properties":{"true":["deleteRecentMention","fetchRecentMentions"]}}},"RelationshipActions":{"defaultExport":true,"filter":{"properties":{"true":["addRelationship","removeRelationship"]}}},"RoleIconActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".ROLE_ICONS","convertSurrogateToName","customIconSrc"]}}}},"RTCConnectionActions":{"defaultExport":true,"filter":{"properties":{"true":["getChannelId","getGuildId","getRTCConnectionId"]}}},"SearchPageActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["searchId","sort_by","sort_order"]}}}},"SettingsActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["ON_FOR_LARGE_GUILDS","updateSetting","useSetting"]}}}},"SimpleMarkdownComponents":{"defaultExport":true,"filter":{"strings":{"default":{"true":["customEmoji","emojiTooltipPosition","timestampTooltip"]}}}},"SimpleMarkdownParser":{"defaultExport":true,"filter":{"properties":{"true":["parseBlock","parseInline","defaultOutput"]}}},"SlateRichActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["textValue","richValue","text:\"\""],"false":[".jsx)"]}}}},"SlateTextActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["ignoreTrailingEmptyNodes","preventEmojiSurrogates"],"false":[".jsx)"]}}}},"SoundParser":{"defaultExport":true,"filter":{"strings":{"default":{"true":["discodo","ddr-down","mute"]}}}},"SoundActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":[".play()",".disableSounds","getSoundpack"],"false":[".jsx)"]}}}},"SortedGuildActions":{"defaultExport":true,"filter":{"properties":{"true":["getSortedGuilds","getFlattenedGuildIds"]}}},"SpotifyActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["\"SPOTIFY_SET_ACTIVE_DEVICE\"","deviceId","accountId"]}}}},"StateStoreActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["this._currentDispatchActionType"]}}}},"StoreChangeActions":{"defaultExport":true,"filter":{"properties":{"true":["get","set","clear","remove"]}}},"TimestampActions":{"defaultExport":true,"filter":{"properties":{"true":["fromTimestamp","extractTimestamp"]}}},"UploadActions":{"defaultExport":true,"filter":{"properties":{"true":["upload","instantBatchUpload"]}}},"URLParser":{"defaultExport":true,"filter":{"properties":{"true":["parse","resolveObject"]}}},"UserNameActions":{"defaultExport":true,"filter":{"properties":{"true":["getNickname","getName","useName"]}}},"UserPopoutActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["Cannot moderate","user:","showMute"]}}}},"UserProfileActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["USER_AGREEMENTS","user cannot be undefined"]}}}},"UserSettingsProtoActions":{"defaultExport":false,"path":"exports","filter":{"strings":{"default":{"true":["UserSettingsProtoLastWriteTimes"]}}}},"UserSettingsActions":{"defaultExport":true,"filter":{"properties":{"true":["open","updateAccount"]}}},"Utilities":{"defaultExport":true,"filter":{"properties":{"true":["flatMap","cloneDeep"]}}},"WindowActions":{"defaultExport":true,"filter":{"properties":{"true":["minimize","maximize","close"]}}}}}
+{
+  "components": {
+    "Button": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Colors",
+            "Hovers",
+            "Looks"
+          ]
+        }
+      }
+    },
+    "Checkbox": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Aligns",
+            "Shapes",
+            "Types"
+          ]
+        }
+      }
+    },
+    "Clickable": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".ENTER",
+              "preventDefault",
+              ").handleKeyPress"
+            ]
+          }
+        }
+      }
+    },
+    "KeybindRecorder": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".RECORDING",
+              ".DEFAULT",
+              "toggleRecordMode"
+            ]
+          }
+        }
+      }
+    },
+    "PopoutContainer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Positions",
+            "Align",
+            "Animation",
+            "defaultProps"
+          ]
+        }
+      }
+    },
+    "RadioGroup": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "itemInfoClassName",
+              "hasSelection",
+              ".radioItemIconClassName"
+            ]
+          }
+        }
+      }
+    },
+    "SearchBar": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ").inputRef",
+              ".containerRef",
+              ".handleOnChange"
+            ]
+          }
+        }
+      }
+    },
+    "SearchableSelect": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              ".onChange,",
+              ".jsx)"
+            ]
+          },
+          "default": {
+            "true": [
+              "serialize",
+              "haspopup",
+              ".maxVisibleItems"
+            ]
+          }
+        }
+      }
+    },
+    "Slider": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".stickToMarkers",
+              "sortedMarkers"
+            ]
+          }
+        }
+      }
+    },
+    "TabBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Looks",
+            "Header",
+            "Panel"
+          ]
+        }
+      }
+    },
+    "Table": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "SortDirection",
+            "defaultProps"
+          ]
+        }
+      }
+    },
+    "TextArea": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "onKeyDown=function",
+              "defaultDirty"
+            ]
+          }
+        }
+      }
+    },
+    "TextInput": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "MAXIMUM_LENGTH_ERROR"
+            ]
+          },
+          "default": {
+            "true": [
+              "onFocus=function",
+              "MAXIMUM_LENGTH_ERROR",
+              "translate3d"
+            ]
+          }
+        }
+      }
+    },
+    "TooltipContainer": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "handleContextMenu=function",
+              "shouldShowTooltip",
+              "clickable"
+            ]
+          }
+        }
+      }
+    },
+    "Anchor": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "anchorUnderlineOnHover",
+              "noreferrer noopener"
+            ]
+          }
+        }
+      }
+    },
+    "Animations": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Controller",
+            "Spring"
+          ]
+        }
+      }
+    },
+    "AppReferencePositionLayer": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "\"onMount\"",
+              "\"onUnmount\""
+            ]
+          }
+        }
+      }
+    },
+    "Avatars": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "\"statusColor\"",
+              "ONLINE",
+              "isMobile"
+            ]
+          }
+        }
+      }
+    },
+    "Badges": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "baseShapeRound",
+              "textBadge"
+            ]
+          }
+        }
+      }
+    },
+    "Checkmark": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "d:\"M8.99991 16.17L4.82991"
+            ]
+          }
+        }
+      }
+    },
+    "Emoji": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "autoplay"
+            ]
+          },
+          "default": {
+            "true": [
+              "emojiName",
+              "shouldAnimate",
+              "jumboable"
+            ]
+          }
+        }
+      }
+    },
+    "EmojiButton": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "renderButtonContents",
+              "PickerPerRow",
+              "SELECT_EMOJI"
+            ]
+          }
+        }
+      }
+    },
+    "EmojiPicker": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "compare"
+            ]
+          },
+          "default": {
+            "true": [
+              "emojiSize",
+              "inExpressionPicker",
+              ",emojiPaddingHorizontal:"
+            ]
+          }
+        }
+      }
+    },
+    "Flex": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Wrap",
+            "Direction",
+            "Child"
+          ]
+        }
+      }
+    },
+    "FlowerStar": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "flowerStarContainer",
+              ".jsx)"
+            ]
+          }
+        }
+      }
+    },
+    "FocusRingScope": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "FocusRing",
+              "ringTarget was not"
+            ]
+          }
+        }
+      }
+    },
+    "FormComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "properties": {
+          "true": [
+            "INPUT_PLACEHOLDER",
+            "LABEL_SELECTED"
+          ]
+        }
+      }
+    },
+    "GuildBadge": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "VERIFIED_AND_PARTNERED",
+              "renderBadge",
+              "flowerStarClassName"
+            ]
+          }
+        }
+      }
+    },
+    "GuildIconComponents": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "SMOL",
+              "badgeStrokeColor"
+            ]
+          }
+        }
+      }
+    },
+    "GuildTooltipMutedText": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".muteConfig",
+              "color:\"text-muted\""
+            ]
+          }
+        }
+      }
+    },
+    "Header": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "Sizes",
+            "Tags"
+          ]
+        }
+      }
+    },
+    "Heading": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "data-excessive",
+              ".defaultColor"
+            ]
+          }
+        }
+      }
+    },
+    "HeaderBarComponents": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "isAuthenticated",
+              ".HEADER_BAR"
+            ]
+          }
+        }
+      }
+    },
+    "ImageComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "containerRef",
+              "zoomable",
+              "LOADING"
+            ]
+          }
+        }
+      }
+    },
+    "ImageModal": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "mobileCloseWrapper",
+              "closeAction"
+            ]
+          }
+        }
+      }
+    },
+    "LayerContainerComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "layerContainerElement",
+              "LayerProvider"
+            ]
+          }
+        }
+      }
+    },
+    "LazyImage": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "LOADING",
+              "visibilityObserver"
+            ]
+          }
+        }
+      }
+    },
+    "ListHeader": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".container",
+              "\"h2\"",
+              "[\"aria-label\"]"
+            ]
+          }
+        }
+      }
+    },
+    "Mask": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": "Masks"
+        }
+      }
+    },
+    "Menu": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "keyboardModeEnabled"
+            ]
+          },
+          "default": {
+            "true": [
+              "Menu API only allows Items and groups of Items as children"
+            ]
+          }
+        }
+      }
+    },
+    "MessageGroup": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "renderThreadAccessory",
+              "HAS_THREAD",
+              "allowHeading"
+            ],
+            "false": [
+              "THREAD_STARTER"
+            ]
+          }
+        }
+      }
+    },
+    "MessagesPopoutComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "canCloseAllMessages",
+              "loadingMore"
+            ]
+          }
+        }
+      }
+    },
+    "ModalComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".renderModal,",
+              "onCloseRequest"
+            ]
+          }
+        }
+      }
+    },
+    "Paginator": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "totalPageCount",
+              "selectedPage"
+            ]
+          }
+        }
+      }
+    },
+    "PanelButton": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "Masks.PANEL_BUTTON"
+            ]
+          }
+        }
+      }
+    },
+    "PopoutFocusLock": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "impressionName"
+            ]
+          },
+          "default": {
+            "true": [
+              "impressionName",
+              "useImperativeHandle"
+            ]
+          }
+        }
+      }
+    },
+    "PrivateChannelItems": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "handleCloseButtonMouseDown",
+              "LEAVE_GROUP_DM_MANAGED_BODY"
+            ]
+          }
+        }
+      }
+    },
+    "RoleMention": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "inlinePreview"
+            ]
+          },
+          "default": {
+            "true": [
+              "rolePopout",
+              "inlinePreview"
+            ]
+          }
+        }
+      }
+    },
+    "Scrollers": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".fade",
+              ".auto",
+              "paddingFix",
+              "getScrollerNode"
+            ]
+          }
+        }
+      }
+    },
+    "SpinnerComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "WANDERING_CUBES",
+              "CHASING_DOTS"
+            ]
+          }
+        }
+      }
+    },
+    "StatusComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "{mask",
+              ".mask,",
+              "UNKNOWN"
+            ]
+          }
+        }
+      }
+    },
+    "Text": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "lineClamp:",
+              ".selectable",
+              ".defaultColor"
+            ]
+          }
+        }
+      }
+    },
+    "TextElement": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".strong,",
+              ".STANDARD"
+            ]
+          }
+        }
+      }
+    },
+    "Timeout": {
+      "export": true,
+      "filter": {
+        "prototypes": {
+          "true": [
+            "start",
+            "stop",
+            "isStarted"
+          ]
+        }
+      }
+    },
+    "UserBadges": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "BadgeSizes"
+          ]
+        }
+      }
+    },
+    "UserBadgeComponents": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".PROFILE_USER_BADGES",
+              "SIZE_24"
+            ]
+          }
+        }
+      }
+    },
+    "UserPopout": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "\"userId\"",
+              "\"Unexpected missing user\"",
+              "getUser"
+            ]
+          }
+        }
+      }
+    },
+    "UserPopoutSection": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".section,",
+              ".lastSection"
+            ]
+          }
+        }
+      }
+    },
+    "UserSummaryItem": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "popoutUserId:",
+              ".clickableAvatar"
+            ]
+          }
+        }
+      }
+    },
+    "VideoForwardRef": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "function": {
+            "true": [
+              "externalRef"
+            ]
+          },
+          "default": {
+            "true": [
+              "HTMLSourceElement",
+              "autoPlay"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "classes": {
+    "Channel": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "getRecipientId",
+            "isManaged",
+            "getGuildId"
+          ]
+        }
+      }
+    },
+    "Guild": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "getIconURL",
+            "getMaxEmojiSlots",
+            "getRole"
+          ]
+        }
+      }
+    },
+    "Invite": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "getExpiresAt",
+            "isExpired"
+          ]
+        }
+      }
+    },
+    "Message": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "getReaction",
+            "isEdited",
+            "getChannelId"
+          ]
+        }
+      }
+    },
+    "Messages": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "jumpToMessage",
+            "hasAfterCached",
+            "forEach"
+          ]
+        }
+      }
+    },
+    "Timestamp": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "add",
+            "dayOfYear",
+            "hasAlignedHourOffset"
+          ]
+        }
+      }
+    },
+    "User": {
+      "export": true,
+      "path": "constructor",
+      "filter": {
+        "properties": {
+          "true": [
+            "addGuildAvatarHash",
+            "isLocalBot"
+          ]
+        }
+      }
+    }
+  },
+  "apis": {
+    "AccountDetails": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "usernameContainer",
+            "container"
+          ]
+        }
+      }
+    },
+    "AccountDetailsButtons": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "button",
+            "enabled",
+            "disabled"
+          ]
+        }
+      }
+    },
+    "Anchor": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "anchor",
+            "anchorUnderlineOnHover"
+          ]
+        }
+      }
+    },
+    "AnimationContainer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "animatorLeft",
+            "didRender"
+          ]
+        }
+      }
+    },
+    "AppBase": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "base"
+          ]
+        }
+      }
+    },
+    "AppInner": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "app",
+            "layers"
+          ]
+        }
+      }
+    },
+    "AppMount": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "appMount"
+          ]
+        }
+      }
+    },
+    "ApplicationStore": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "applicationStore",
+            "navigation"
+          ]
+        }
+      }
+    },
+    "AppOuter": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "app",
+            "mobileApp"
+          ]
+        }
+      }
+    },
+    "Attachment": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "video",
+            "metadataDownload"
+          ]
+        }
+      }
+    },
+    "AuditLog": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "auditLog",
+            "divider"
+          ]
+        }
+      }
+    },
+    "AuthBox": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "authBox"
+          ]
+        }
+      }
+    },
+    "Autocomplete": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "autocomplete",
+            "autocompleteRow"
+          ]
+        }
+      }
+    },
+    "AutocompleteAliases": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "autocomplete",
+            "stickerAutoComplete"
+          ]
+        }
+      }
+    },
+    "Avatar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "avatar",
+            "mask",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "AvatarIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "iconActiveLarge",
+            "iconActiveMedium"
+          ]
+        }
+      }
+    },
+    "Backdrop": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "backdrop",
+            "withLayer"
+          ]
+        }
+      }
+    },
+    "Badge": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "numberBadge",
+            "textBadge",
+            "iconBadge"
+          ]
+        }
+      }
+    },
+    "BotTag": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "botTag",
+            "botTagInvert"
+          ]
+        }
+      }
+    },
+    "Button": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "colorBrand",
+            "lookBlank"
+          ]
+        }
+      }
+    },
+    "CallCurrent": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "fullScreen"
+          ]
+        }
+      }
+    },
+    "CallDetails": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "hotspot"
+          ]
+        }
+      }
+    },
+    "CallIncoming": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "mainChannelInfo"
+          ]
+        }
+      }
+    },
+    "Card": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "card",
+            "cardBrand"
+          ]
+        }
+      }
+    },
+    "Category": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "children",
+            "addButtonIcon"
+          ]
+        }
+      }
+    },
+    "CategoryArrow": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "arrow",
+            "open"
+          ]
+        }
+      }
+    },
+    "ChangeLog": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "added",
+            "fixed",
+            "improved",
+            "progress"
+          ]
+        }
+      }
+    },
+    "Channel": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "content",
+            "modeSelected"
+          ]
+        }
+      }
+    },
+    "ChannelContainer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "actionIcon",
+            "containerDefault"
+          ]
+        }
+      }
+    },
+    "ChannelContainerMentionsBadge": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "mentionsBadge",
+            "iconBase"
+          ]
+        }
+      }
+    },
+    "ChannelLimit": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "users",
+            "total",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "ChannelTextArea": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "textArea",
+            "buttons"
+          ]
+        }
+      }
+    },
+    "ChannelTextAreaAttachButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "attachButton",
+            "attachWrapper"
+          ]
+        }
+      }
+    },
+    "ChannelTextAreaButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "buttonWrapper",
+            "active"
+          ]
+        }
+      }
+    },
+    "ChannelTextAreaCharCounter": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "characterCount",
+            "error"
+          ]
+        }
+      }
+    },
+    "ChannelTextAreaSlate": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "slateContainer",
+            "placeholder"
+          ]
+        }
+      }
+    },
+    "ChatThreadSidebar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "floating",
+            "resizeHandle"
+          ]
+        }
+      }
+    },
+    "ChatWindow": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "chat",
+            "channelTextArea",
+            "chatContent"
+          ]
+        }
+      }
+    },
+    "Checkbox": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "checkboxWrapper",
+            "round"
+          ]
+        }
+      }
+    },
+    "ColorPicker": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "customColorPicker",
+            "colorPickerDropper"
+          ]
+        }
+      }
+    },
+    "ColorPickerInner": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "hue",
+            "saturation"
+          ]
+        }
+      }
+    },
+    "Combobox": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "combobox",
+            "itemLabel"
+          ]
+        }
+      }
+    },
+    "Cursor": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "cursorDefault",
+            "userSelectNone"
+          ]
+        }
+      }
+    },
+    "CustomStatus": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "customStatusSoloEmoji",
+            "customStatusText",
+            "customStatus"
+          ]
+        }
+      }
+    },
+    "CustomStatusIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "textRuler",
+            "emoji",
+            "icon"
+          ]
+        }
+      }
+    },
+    "CustomStatusModal": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "inputContainer",
+            "emojiButton",
+            "modalRoot"
+          ]
+        }
+      }
+    },
+    "CustomStatusPopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "customStatusItem",
+            "customEmoji"
+          ]
+        }
+      }
+    },
+    "DmAddPopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "popout",
+            "searchBarComponent"
+          ]
+        }
+      }
+    },
+    "DmAddPopoutItems": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "friendSelected",
+            "friendWrapper"
+          ]
+        }
+      }
+    },
+    "DefaultChannelWelcome": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "titleName",
+            "card",
+            "playCircleIcon"
+          ]
+        }
+      }
+    },
+    "DownloadLink": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "downloadLink"
+          ]
+        }
+      }
+    },
+    "Embed": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "embed",
+            "embedAuthorIcon"
+          ]
+        }
+      }
+    },
+    "EmbedActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "iconPlay",
+            "iconWrapperActive"
+          ]
+        }
+      }
+    },
+    "Emoji": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "emoji"
+          ]
+        }
+      }
+    },
+    "EmojiButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emojiButton",
+            "sprite"
+          ]
+        }
+      }
+    },
+    "EmojiPicker": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emojiPicker",
+            "inspector"
+          ]
+        }
+      }
+    },
+    "EmojiPickerDiversitySelector": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "diversityEmojiItemImage",
+            "diversitySelectorOptions"
+          ]
+        }
+      }
+    },
+    "EmojiPickerItem": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emojiSpriteImage"
+          ]
+        }
+      }
+    },
+    "EmojiPickerInspector": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "inspector",
+            "graphicPrimary"
+          ]
+        }
+      }
+    },
+    "EmojiPickerInspectorEmoji": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emoji",
+            "glyphEmoji"
+          ]
+        }
+      }
+    },
+    "ErrorScreen": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "flexWrapper",
+            "note"
+          ]
+        }
+      }
+    },
+    "ExpressionPicker": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "contentWrapper",
+            "navButton",
+            "navList"
+          ]
+        }
+      }
+    },
+    "FavButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "gifFavoriteButton",
+            "selected",
+            "icon"
+          ]
+        }
+      }
+    },
+    "File": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "downloadButton",
+            "fileNameLink"
+          ]
+        }
+      }
+    },
+    "Flex": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 24,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "alignBaseline",
+            "alignCenter"
+          ]
+        }
+      }
+    },
+    "FlexChild": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "flexChild",
+            "flex"
+          ]
+        }
+      }
+    },
+    "FlowerStar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "flowerStarContainer",
+            "flowerStar"
+          ]
+        }
+      }
+    },
+    "FormText": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "description",
+            "modeDefault"
+          ]
+        }
+      }
+    },
+    "ForumPage": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "newPostsButton",
+            "list",
+            "searchIcon"
+          ]
+        }
+      }
+    },
+    "Game": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "game",
+            "gameName"
+          ]
+        }
+      }
+    },
+    "GameIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "gameIcon",
+            "small",
+            "xsmall"
+          ]
+        }
+      }
+    },
+    "GameLibraryTable": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "stickyHeader",
+            "emptyStateText"
+          ]
+        }
+      }
+    },
+    "GifFavoriteButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "gifFavoriteButton",
+            "showPulse"
+          ]
+        }
+      }
+    },
+    "GoLiveDetails": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "panel",
+            "gameWrapper"
+          ]
+        }
+      }
+    },
+    "Guild": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "lowerBadge",
+            "svg"
+          ]
+        }
+      }
+    },
+    "GuildChannels": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "positionedContainer",
+            "unreadBar"
+          ]
+        }
+      }
+    },
+    "GuildChannelsWrapper": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "hubContainer",
+            "container"
+          ]
+        }
+      }
+    },
+    "GuildDiscovery": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pageWrapper",
+            "guildList"
+          ]
+        }
+      }
+    },
+    "GuildDm": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "pill"
+          ]
+        }
+      }
+    },
+    "GuildEdges": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "target",
+            "centerTarget"
+          ]
+        }
+      }
+    },
+    "GuildFolder": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "folder",
+            "expandedFolderIconWrapper"
+          ]
+        }
+      }
+    },
+    "GuildHeader": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "header",
+            "name",
+            "bannerImage"
+          ]
+        }
+      }
+    },
+    "GuildHeaderButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "button",
+            "open"
+          ]
+        }
+      }
+    },
+    "GuildItem": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 10,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "listItem",
+            "participating"
+          ]
+        }
+      }
+    },
+    "GuildIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "acronym",
+            "selected",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "GuildInvite": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "guildIconJoined"
+          ]
+        }
+      }
+    },
+    "GuildsButton": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 6,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "circleIconButton",
+            "circleIcon"
+          ]
+        }
+      }
+    },
+    "GuildsDragPlaceholder": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 6,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "dragInner",
+            "placeholderMask"
+          ]
+        }
+      }
+    },
+    "GuildSeparator": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "guildSeparator"
+          ]
+        }
+      }
+    },
+    "GuildServer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "blobContainer",
+            "pill"
+          ]
+        }
+      }
+    },
+    "GuildSettingsBanned": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "bannedUser",
+            "bannedUserAvatar"
+          ]
+        }
+      }
+    },
+    "GuildSettingsEmoji": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emojiRow",
+            "emojiAliasPlaceholder"
+          ]
+        }
+      }
+    },
+    "GuildSettingsInvite": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "countdownColumn",
+            "inviteSettingsInviteRow"
+          ]
+        }
+      }
+    },
+    "GuildSettingsMember": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "member",
+            "membersFilterPopout"
+          ]
+        }
+      }
+    },
+    "GuildsListItem": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "listItemWrapper",
+            "listItemTooltip"
+          ]
+        }
+      }
+    },
+    "GuildsInboxIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "iconButton",
+            "selected"
+          ]
+        }
+      }
+    },
+    "GuildsItems": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "circleIcon",
+            "guildsError"
+          ]
+        }
+      }
+    },
+    "GuildsWrapper": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "scroller",
+            "unreadMentionsBar",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "HeaderBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "children",
+            "toolbar"
+          ]
+        }
+      }
+    },
+    "HeaderBarExtras": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "headerBarLoggedOut",
+            "search"
+          ]
+        }
+      }
+    },
+    "HeaderBarSearch": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "search",
+            "searchBar",
+            "open"
+          ]
+        }
+      }
+    },
+    "HeaderBarTopic": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "topic",
+            "expandable",
+            "content"
+          ]
+        }
+      }
+    },
+    "Heading": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "eyebrow",
+            "code"
+          ]
+        }
+      }
+    },
+    "HomeIcon": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "homeIcon"
+          ]
+        }
+      }
+    },
+    "HotKeyRecorder": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "editIcon",
+            "recording"
+          ]
+        }
+      }
+    },
+    "HoverCard": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "card",
+            "active"
+          ]
+        }
+      }
+    },
+    "HoverCardRemoveButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "button",
+            "filled",
+            "default"
+          ]
+        }
+      }
+    },
+    "IconDirection": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "directionDown",
+            "directionUp"
+          ]
+        }
+      }
+    },
+    "ImageAssets": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pngImage",
+            "stickerAsset"
+          ]
+        }
+      }
+    },
+    "ImageModal": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 4,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "image",
+            "modal"
+          ]
+        }
+      }
+    },
+    "ImageModalNavigation": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "nav",
+            "navPrev",
+            "navNext"
+          ]
+        }
+      }
+    },
+    "ImageWrapper": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "clickable",
+            "imageWrapperBackground"
+          ]
+        }
+      }
+    },
+    "Input": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "inputMini",
+            "inputDefault"
+          ]
+        }
+      }
+    },
+    "InviteModal": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "inviteRow",
+            "modal"
+          ]
+        }
+      }
+    },
+    "Item": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "item",
+            "side",
+            "header"
+          ]
+        }
+      }
+    },
+    "ItemRole": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "role",
+            "dragged"
+          ]
+        }
+      }
+    },
+    "ItemLayerContainer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "layer",
+            "layerContainer"
+          ]
+        }
+      }
+    },
+    "Layers": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "layer",
+            "layers"
+          ]
+        }
+      }
+    },
+    "LiveTag": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "liveLarge",
+            "live"
+          ]
+        }
+      }
+    },
+    "LoadingScreen": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "problemsText",
+            "problems"
+          ]
+        }
+      }
+    },
+    "Margins": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "marginBottom4",
+            "marginCenterHorz"
+          ]
+        }
+      }
+    },
+    "Menu": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "menu",
+            "colorPremiumGradient",
+            "item"
+          ]
+        }
+      }
+    },
+    "MenuCaret": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "arrow",
+            "open"
+          ]
+        }
+      }
+    },
+    "MenuReactButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "icon",
+            "focused",
+            "button"
+          ]
+        }
+      }
+    },
+    "MenuSlider": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "slider",
+            "sliderContainer"
+          ]
+        }
+      }
+    },
+    "Member": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "member",
+            "ownerIcon"
+          ]
+        }
+      }
+    },
+    "MemberSince": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "memberSinceContainer",
+            "discordIcon"
+          ]
+        }
+      }
+    },
+    "MembersWrapper": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "membersWrap",
+            "membersGroup"
+          ]
+        }
+      }
+    },
+    "Message": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "message",
+            "mentioned"
+          ]
+        }
+      }
+    },
+    "MessageAccessory": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "embedWrapper",
+            "gifFavoriteButton"
+          ]
+        }
+      }
+    },
+    "MessageAttachment": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "hiddenSpoilers",
+            "spoiler"
+          ]
+        }
+      }
+    },
+    "MessageBlocked": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "blockedMessageText",
+            "expanded"
+          ]
+        }
+      }
+    },
+    "MessageBody": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "markupRtl",
+            "edited"
+          ]
+        }
+      }
+    },
+    "MessageDivider": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "isUnread",
+            "divider"
+          ]
+        }
+      }
+    },
+    "MessageElements": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "messageGroupBlockedBtn",
+            "dividerRed"
+          ]
+        }
+      }
+    },
+    "MessageFile": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "cancelButton",
+            "filenameLinkWrapper"
+          ]
+        }
+      }
+    },
+    "MessageLocalBot": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "ephemeralMessage",
+            "icon"
+          ]
+        }
+      }
+    },
+    "MessageMarkup": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "markup"
+          ]
+        }
+      }
+    },
+    "MessagePopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "message",
+            "spacing"
+          ]
+        }
+      }
+    },
+    "MessageOperations": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "operations"
+          ]
+        }
+      }
+    },
+    "MessageReactions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "reactions",
+            "reactionMe"
+          ]
+        }
+      }
+    },
+    "MessageReactionsModal": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "reactor",
+            "reactionSelected"
+          ]
+        }
+      }
+    },
+    "MessageReply": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "text",
+            "closeButton"
+          ]
+        }
+      }
+    },
+    "MessagesPopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "messagesPopoutWrap",
+            "jumpButton"
+          ]
+        }
+      }
+    },
+    "MessagesPopoutButtons": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "secondary",
+            "tertiary",
+            "button"
+          ]
+        }
+      }
+    },
+    "MessagesPopoutTabBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "header",
+            "tabBar",
+            "active"
+          ]
+        }
+      }
+    },
+    "MessagesLoading": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "attachment",
+            "blob",
+            "cozy"
+          ]
+        }
+      }
+    },
+    "MessagesWelcome": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "emptyChannelIcon",
+            "description",
+            "header"
+          ]
+        }
+      }
+    },
+    "MessagesWelcomeButton": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 2,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "button",
+            "buttonIcon"
+          ]
+        }
+      }
+    },
+    "MessagesWelcomeThread": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "iconWrapper",
+            "threadCreatorName"
+          ]
+        }
+      }
+    },
+    "MessagesWrap": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "messagesWrapper",
+            "messageGroupBlocked"
+          ]
+        }
+      }
+    },
+    "MessageSystem": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "actionAnchor"
+          ]
+        }
+      }
+    },
+    "MessageSystemAccessories": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "name",
+            "spine",
+            "cta"
+          ]
+        }
+      }
+    },
+    "MessageToolbar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "icon",
+            "isHeader"
+          ]
+        }
+      }
+    },
+    "MessageToolbarItems": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wrapper",
+            "button",
+            "separator"
+          ]
+        }
+      }
+    },
+    "Modal": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "root",
+            "small",
+            "medium"
+          ]
+        }
+      }
+    },
+    "ModalCarousel": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "carouselModal",
+            "carousel"
+          ]
+        }
+      }
+    },
+    "ModalCarouselWrapper": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "modalCarouselWrapper",
+            "zoomedCarouselModalRoot"
+          ]
+        }
+      }
+    },
+    "ModalDivider": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "divider"
+          ]
+        }
+      }
+    },
+    "ModalItems": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "guildName",
+            "checkboxContainer"
+          ]
+        }
+      }
+    },
+    "ModalMiniContent": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "modal",
+            "content",
+            "maxModalWidth"
+          ]
+        }
+      }
+    },
+    "ModalSub": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "modal",
+            "sizeLarge"
+          ]
+        }
+      }
+    },
+    "NameContainer": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "nameAndDecorators",
+            "name"
+          ]
+        }
+      }
+    },
+    "NameContainerState": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "interactive",
+            "selected",
+            "muted"
+          ]
+        }
+      }
+    },
+    "NameTag": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "bot",
+            "nameTag"
+          ]
+        }
+      }
+    },
+    "NitroStore": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "applicationStore",
+            "marketingHeader"
+          ]
+        }
+      }
+    },
+    "NoteTextarea": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "textarea"
+          ]
+        }
+      }
+    },
+    "Notice": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "notice",
+            "platformIcon"
+          ]
+        }
+      }
+    },
+    "NoticePlatform": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "iconAndroid",
+            "textLink"
+          ]
+        }
+      }
+    },
+    "Pagination": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pageButton",
+            "pageControl"
+          ]
+        }
+      }
+    },
+    "PeopleItem": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "peopleListItem",
+            "active"
+          ]
+        }
+      }
+    },
+    "PeopleItemInfo": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 2,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "listItemContents",
+            "actions"
+          ]
+        }
+      }
+    },
+    "PeopleItemUser": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "userInfo",
+            "discordTag"
+          ]
+        }
+      }
+    },
+    "PeopleList": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "peopleList",
+            "emptyStateContainer"
+          ]
+        }
+      }
+    },
+    "Peoples": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "peopleColumn",
+            "tabBar"
+          ]
+        }
+      }
+    },
+    "PeoplesNowPlayingMember": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "memberItem",
+            "unknown"
+          ]
+        }
+      }
+    },
+    "PictureInPicture": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pictureInPicture",
+            "pictureInPictureWindow"
+          ]
+        }
+      }
+    },
+    "PillWrapper": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 2,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "item",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "PrivateChannel": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "channel",
+            "closeButton"
+          ]
+        }
+      }
+    },
+    "PrivateChannelList": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "privateChannels",
+            "searchBar"
+          ]
+        }
+      }
+    },
+    "PrivateChannelListScroller": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "privateChannelsHeaderContainer",
+            "headerText"
+          ]
+        }
+      }
+    },
+    "PopoutActivity": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "ellipsis",
+            "activityActivityFeed"
+          ]
+        }
+      }
+    },
+    "QuickMessage": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 1,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "input"
+          ]
+        }
+      }
+    },
+    "QuickSelect": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "quickSelectArrow",
+            "selected"
+          ]
+        }
+      }
+    },
+    "QuickSwitch": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "result",
+            "guildIconContainer"
+          ]
+        }
+      }
+    },
+    "QuickSwitchWrap": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "miscContainer"
+          ]
+        }
+      }
+    },
+    "RadioGroup": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "radioBar",
+            "item"
+          ]
+        }
+      }
+    },
+    "Reactions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "reactionBtn",
+            "reaction"
+          ]
+        }
+      }
+    },
+    "RecentMentions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "recentMentionsPopout"
+          ]
+        }
+      }
+    },
+    "RecentMentionsHeader": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "channelName",
+            "channelHeader",
+            "dmIcon"
+          ]
+        }
+      }
+    },
+    "Role": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "roleName",
+            "roleRemoveIcon"
+          ]
+        }
+      }
+    },
+    "RoleCircle": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "roleCircle",
+            "flex"
+          ]
+        }
+      }
+    },
+    "RoleIcon": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 4,
+          "compare": "<"
+        },
+        "properties": {
+          "true": [
+            "clickable",
+            "roleIcon"
+          ]
+        }
+      }
+    },
+    "Roles": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "rolePill",
+            "roles",
+            "rolePillBorder"
+          ]
+        }
+      }
+    },
+    "Scrollbar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "scrollbar",
+            "scrollbarGhost"
+          ]
+        }
+      }
+    },
+    "Scroller": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "scrollerBase",
+            "none",
+            "fade"
+          ]
+        }
+      }
+    },
+    "SearchBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "clear",
+            "container",
+            "pointer"
+          ]
+        }
+      }
+    },
+    "SearchPopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "datePicker",
+            "searchResultChannelIconBackground"
+          ]
+        }
+      }
+    },
+    "SearchPopoutWrap": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "queryContainer"
+          ]
+        }
+      }
+    },
+    "SearchResults": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "noResults",
+            "searchResultsWrap"
+          ]
+        }
+      }
+    },
+    "SearchResultsElements": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "totalResults",
+            "searchHeaderTabList"
+          ]
+        }
+      }
+    },
+    "SearchResultsGroup": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "searchResultGroup",
+            "channelName"
+          ]
+        }
+      }
+    },
+    "SearchResultsMessage": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "message",
+            "searchResult"
+          ]
+        }
+      }
+    },
+    "Select": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "select",
+            "error",
+            "errorMessage"
+          ]
+        }
+      }
+    },
+    "SelectFilterPopout": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "selectFilterPopout",
+            "avatar",
+            "row"
+          ]
+        }
+      }
+    },
+    "SelectSearchable": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "searchable",
+            "option",
+            "selectedIcon"
+          ]
+        }
+      }
+    },
+    "SettingsCloseButton": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "closeButton",
+            "keybind"
+          ]
+        }
+      }
+    },
+    "SettingsItems": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "labelRow",
+            "note"
+          ]
+        }
+      }
+    },
+    "SettingsTable": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "headerOption",
+            "headerName"
+          ]
+        }
+      }
+    },
+    "SettingsWindow": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "contentRegion",
+            "standardSidebarView"
+          ]
+        }
+      }
+    },
+    "SettingsWindowScroller": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "sidebarScrollable",
+            "content",
+            "scroller"
+          ]
+        }
+      }
+    },
+    "Slider": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "slider",
+            "grabber"
+          ]
+        }
+      }
+    },
+    "Spinner": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "spinner",
+            "chasingDots"
+          ]
+        }
+      }
+    },
+    "Spoiler": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "spoilerContainer",
+            "hidden"
+          ]
+        }
+      }
+    },
+    "Switch": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "slider",
+            "input"
+          ]
+        }
+      }
+    },
+    "Table": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "stickyHeader",
+            "sortIcon"
+          ]
+        }
+      }
+    },
+    "Text": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "defaultColor",
+            "defaultMarginh1"
+          ]
+        }
+      }
+    },
+    "TextColor": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "colorStandard",
+            "colorMuted",
+            "colorError"
+          ]
+        }
+      }
+    },
+    "TextColor2": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "muted",
+            "wrapper",
+            "base"
+          ]
+        }
+      }
+    },
+    "TextSize": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "size10",
+            "size14",
+            "size20"
+          ]
+        }
+      }
+    },
+    "TextStyle": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "strikethrough",
+            "underline",
+            "bold"
+          ]
+        }
+      }
+    },
+    "ThreadCard": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "threadName",
+            "container",
+            "facepile"
+          ]
+        }
+      }
+    },
+    "Tip": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pro",
+            "inline"
+          ]
+        }
+      }
+    },
+    "TitleBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "titleBar",
+            "wordmark"
+          ]
+        }
+      }
+    },
+    "Tooltip": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "tooltip",
+            "tooltipTop"
+          ]
+        }
+      }
+    },
+    "TooltipGuild": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "rowIcon",
+            "rowGuildName"
+          ]
+        }
+      }
+    },
+    "Typing": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "cooldownWrapper",
+            "typing"
+          ]
+        }
+      }
+    },
+    "UnreadBar": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "active",
+            "bar",
+            "unread"
+          ]
+        }
+      }
+    },
+    "UploadModal": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "uploadModal",
+            "bgScale"
+          ]
+        }
+      }
+    },
+    "UserBadges": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "profileBadge",
+            "container"
+          ]
+        }
+      }
+    },
+    "UserBanner": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "popoutBanner",
+            "popoutBannerPremium"
+          ]
+        }
+      }
+    },
+    "UserPopoutFooter": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "wumpusTooltip",
+            "messageInputContainer"
+          ]
+        }
+      }
+    },
+    "UserPopoutHeader": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "avatarHint",
+            "profileBadges",
+            "avatarWrapper"
+          ]
+        }
+      }
+    },
+    "UserPopoutSection": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "section",
+            "lastSection"
+          ]
+        }
+      }
+    },
+    "UserPopoutSectionTitle": {
+      "export": true,
+      "filter": {
+        "keys": {
+          "length": 2,
+          "compare": "=="
+        },
+        "properties": {
+          "true": [
+            "title",
+            "body"
+          ]
+        }
+      }
+    },
+    "UserPopoutUsernameSection": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "userTagNoNickname",
+            "nickname",
+            "headerBotTag"
+          ]
+        }
+      }
+    },
+    "UserProfile": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "root",
+            "tabBarContainer"
+          ]
+        }
+      }
+    },
+    "UserProfileHeader": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "additionalActionsIcon",
+            "header",
+            "relationshipButtons"
+          ]
+        }
+      }
+    },
+    "UserProfileInfoSection": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "userInfoSection",
+            "note"
+          ]
+        }
+      }
+    },
+    "UserProfileList": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "listAvatar",
+            "listRow"
+          ]
+        }
+      }
+    },
+    "UserProfileListGuild": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "guildAvatar",
+            "guildAvatarWithoutIcon"
+          ]
+        }
+      }
+    },
+    "UserProfileUsernameSection": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "customStatusSoloEmoji",
+            "nameTag",
+            "discriminator"
+          ]
+        }
+      }
+    },
+    "UserSettingsAppearancePreview": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "preview",
+            "firstMessage"
+          ]
+        }
+      }
+    },
+    "UserSettingsSocialLinks": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "socialLinks",
+            "link"
+          ]
+        }
+      }
+    },
+    "UserSummaryItem": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "avatarContainerMasked",
+            "container"
+          ]
+        }
+      }
+    },
+    "UserTheme": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "userPopoutOuter",
+            "userProfileOuter"
+          ]
+        }
+      }
+    },
+    "Video": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "video",
+            "fullScreen"
+          ]
+        }
+      }
+    },
+    "VoiceChannel": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "avatarSpeaking",
+            "voiceUser"
+          ]
+        }
+      }
+    },
+    "VoiceChannelLimit": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "total",
+            "users",
+            "wrapper"
+          ]
+        }
+      }
+    },
+    "VoiceChannelList": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "list",
+            "collapsed"
+          ]
+        }
+      }
+    },
+    "VoiceDetails": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "container",
+            "customStatusContainer"
+          ]
+        }
+      }
+    },
+    "VoiceDetailsPing": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "rtcConnectionQualityBad",
+            "rtcConnectionQualityFine"
+          ]
+        }
+      }
+    },
+    "WebhookCard": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pulseBorder",
+            "copyButton"
+          ]
+        }
+      }
+    },
+    "AckActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "type:\"BULK_ACK\""
+            ]
+          }
+        }
+      }
+    },
+    "ActivityActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "sendActivityInvite",
+            "updateActivity"
+          ]
+        }
+      }
+    },
+    "AnalyticsActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "isThrottled",
+            "track"
+          ]
+        }
+      }
+    },
+    "AnimationActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "spring",
+            "decay"
+          ]
+        }
+      }
+    },
+    "APIEncodeActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "stringify",
+            "parse",
+            "encode"
+          ]
+        }
+      }
+    },
+    "APIActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getAPIBaseURL"
+          ]
+        }
+      }
+    },
+    "AppearanceSettingsActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "updateLocale",
+            "updateTheme"
+          ]
+        }
+      }
+    },
+    "ApplicationAssetActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "ApplicationAssetUtils",
+              "getAssetImage"
+            ]
+          }
+        }
+      }
+    },
+    "ArrayActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "isArrayLike",
+            "zipObject"
+          ]
+        }
+      }
+    },
+    "ChannelActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "selectChannel",
+            "selectPrivateChannel"
+          ]
+        }
+      }
+    },
+    "ChatRestrictionActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "openWarningPopout",
+              "userCanUsePremiumMessageLength"
+            ]
+          }
+        }
+      }
+    },
+    "ConnectionProviderActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "get",
+            "isSupported",
+            "filter"
+          ]
+        }
+      }
+    },
+    "ConnectionActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "setShowActivity",
+            "setVisibility"
+          ]
+        }
+      }
+    },
+    "ContextMenuActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "renderLazy",
+              "type:\"CONTEXT_MENU_CLOSE\""
+            ]
+          }
+        }
+      }
+    },
+    "CurrentUserStore": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getCurrentUser"
+          ]
+        }
+      }
+    },
+    "DesktopNotificationActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "showNotification",
+            "requestPermission"
+          ]
+        }
+      }
+    },
+    "DispatchApiActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "dispatch",
+            "isDispatching"
+          ]
+        }
+      }
+    },
+    "DispatchActions": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "dispatchToLastSubscribed",
+              "setMaxListeners"
+            ]
+          }
+        }
+      }
+    },
+    "EmojiActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "translateInlineEmojiToSurrogates",
+            "translateSurrogatesToInlineEmoji"
+          ]
+        }
+      }
+    },
+    "EmojiStateActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getURL",
+            "isEmojiDisabled"
+          ]
+        }
+      }
+    },
+    "Env": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "env"
+          ]
+        }
+      }
+    },
+    "FileRequestActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getFileData",
+            "getImageData"
+          ]
+        }
+      }
+    },
+    "FolderSettingsActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "properties": {
+          "true": [
+            "updateLocale",
+            "updateTheme"
+          ]
+        }
+      }
+    },
+    "GuildBoostActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "getPremiumTypeSubscription",
+              "PREMIUM_GUILD_TIER_1"
+            ]
+          }
+        }
+      }
+    },
+    "GuildNotificationsActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "updateChannelOverrideSettings",
+            "updateGuildNotificationSettings"
+          ]
+        }
+      }
+    },
+    "GuildActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "selectGuild",
+            "transitionToGuildSync"
+          ]
+        }
+      }
+    },
+    "HistoryActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "transitionTo - Transitioning to external path"
+            ]
+          }
+        }
+      }
+    },
+    "IconActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getGuildIconURL",
+            "getGuildBannerURL"
+          ]
+        }
+      }
+    },
+    "InviteActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "acceptInvite",
+            "createInvite"
+          ]
+        }
+      }
+    },
+    "InternalReactActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "jsx",
+            "jsxs",
+            "Fragment"
+          ]
+        }
+      }
+    },
+    "KeyCodeActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "Unrecognized DeviceType",
+              "GAMEPAD"
+            ]
+          }
+        }
+      }
+    },
+    "KeyEvents": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "aliases",
+            "code",
+            "codes"
+          ]
+        }
+      }
+    },
+    "LoginActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "login",
+            "logout"
+          ]
+        }
+      }
+    },
+    "MediaComponentActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "renderAdjacentContent",
+              "imageContent"
+            ]
+          }
+        }
+      }
+    },
+    "MediaEngineActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "setOutputDevice",
+            "setInputDevice"
+          ]
+        }
+      }
+    },
+    "MemberDisplayActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "getUserProfile",
+              "getGuildMemberProfile",
+              "_userProfile"
+            ]
+          }
+        }
+      }
+    },
+    "MentionActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "rawMessage",
+              "mention_everyone",
+              "mentionUsers"
+            ]
+          }
+        }
+      }
+    },
+    "MessageAuthorActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".friendNickname",
+              "colorRoleName:null"
+            ]
+          }
+        }
+      }
+    },
+    "MessageComponentActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "ANIMATE_CHAT_AVATAR",
+              "interactionUsernameProfile"
+            ]
+          }
+        }
+      }
+    },
+    "MessageManageActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "showMentionToggle",
+              "SEND_FAILED",
+              "shouldMention"
+            ]
+          }
+        }
+      }
+    },
+    "MessageParser": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "parseEmbedTitle",
+            "defaultRules"
+          ]
+        }
+      }
+    },
+    "MessagePinActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "pinMessage",
+            "unpinMessage"
+          ]
+        }
+      }
+    },
+    "MessageActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "receiveMessage",
+            "editMessage"
+          ]
+        }
+      }
+    },
+    "ModalActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "modalKey",
+              "instant",
+              "contextKey"
+            ],
+            "false": [
+              "LOGIN_REQUIRED_ACTIONS_MODAL_KEY"
+            ]
+          }
+        }
+      }
+    },
+    "NitroActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "canUseIncreasedMessageLength",
+            "canUsePremiumGuildMemberProfile"
+          ]
+        }
+      }
+    },
+    "NotificationSettingsActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "setDesktopType",
+            "setTTSType"
+          ]
+        }
+      }
+    },
+    "PlatformActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "return/^win/.test"
+            ]
+          }
+        }
+      }
+    },
+    "PermissionRoleActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "can",
+            "ALLOW",
+            "DENY"
+          ]
+        }
+      }
+    },
+    "PreferencesContext": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "reducedMotion",
+              "forcedColors",
+              "alwaysShowLinkDecorations",
+              "createContext"
+            ]
+          }
+        }
+      }
+    },
+    "PrivateChannelActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "addRecipient",
+            "openPrivateChannel"
+          ]
+        }
+      }
+    },
+    "QuerySearchActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "queryGuilds",
+            "queryGroupDMs"
+          ]
+        }
+      }
+    },
+    "ReactionEmojiActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "optionallyDiverseSequence,animated",
+              "convertSurrogateToName"
+            ]
+          }
+        }
+      }
+    },
+    "ReactionActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "\"MESSAGE_REACTION_ADD\"",
+              "\"MESSAGE_REACTION_REMOVE\"",
+              "\"@me\""
+            ]
+          }
+        }
+      }
+    },
+    "RecentMentionActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "deleteRecentMention",
+            "fetchRecentMentions"
+          ]
+        }
+      }
+    },
+    "RelationshipActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "addRelationship",
+            "removeRelationship"
+          ]
+        }
+      }
+    },
+    "RoleIconActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".ROLE_ICONS",
+              "convertSurrogateToName",
+              "customIconSrc"
+            ]
+          }
+        }
+      }
+    },
+    "RTCConnectionActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getChannelId",
+            "getGuildId",
+            "getRTCConnectionId"
+          ]
+        }
+      }
+    },
+    "SearchPageActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "searchId",
+              "sort_by",
+              "sort_order"
+            ]
+          }
+        }
+      }
+    },
+    "SettingsActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "ON_FOR_LARGE_GUILDS",
+              "updateSetting",
+              "useSetting"
+            ]
+          }
+        }
+      }
+    },
+    "SimpleMarkdownComponents": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "customEmoji",
+              "emojiTooltipPosition",
+              "timestampTooltip"
+            ]
+          }
+        }
+      }
+    },
+    "SimpleMarkdownParser": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "parseBlock",
+            "parseInline",
+            "defaultOutput"
+          ]
+        }
+      }
+    },
+    "SlateRichActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "textValue",
+              "richValue",
+              "text:\"\""
+            ],
+            "false": [
+              ".jsx)"
+            ]
+          }
+        }
+      }
+    },
+    "SlateTextActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "ignoreTrailingEmptyNodes",
+              "preventEmojiSurrogates"
+            ],
+            "false": [
+              ".jsx)"
+            ]
+          }
+        }
+      }
+    },
+    "SoundParser": {
+      "export": true,
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "discodo",
+              "ddr-down",
+              "mute"
+            ]
+          }
+        }
+      }
+    },
+    "SoundActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              ".play()",
+              ".disableSounds",
+              "getSoundpack"
+            ],
+            "false": [
+              ".jsx)"
+            ]
+          }
+        }
+      }
+    },
+    "SortedGuildActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getSortedGuilds",
+            "getFlattenedGuildIds"
+          ]
+        }
+      }
+    },
+    "SpotifyActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "\"SPOTIFY_SET_ACTIVE_DEVICE\"",
+              "deviceId",
+              "accountId"
+            ]
+          }
+        }
+      }
+    },
+    "StateStoreActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "this._currentDispatchActionType"
+            ]
+          }
+        }
+      }
+    },
+    "StoreChangeActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "get",
+            "set",
+            "clear",
+            "remove"
+          ]
+        }
+      }
+    },
+    "TimestampActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "fromTimestamp",
+            "extractTimestamp"
+          ]
+        }
+      }
+    },
+    "UploadActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "upload",
+            "instantBatchUpload"
+          ]
+        }
+      }
+    },
+    "URLParser": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "parse",
+            "resolveObject"
+          ]
+        }
+      }
+    },
+    "UserNameActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "getNickname",
+            "getName",
+            "useName"
+          ]
+        }
+      }
+    },
+    "UserPopoutActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "Cannot moderate",
+              "user:",
+              "showMute"
+            ]
+          }
+        }
+      }
+    },
+    "UserProfileActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "USER_AGREEMENTS",
+              "user cannot be undefined"
+            ]
+          }
+        }
+      }
+    },
+    "UserSettingsProtoActions": {
+      "export": false,
+      "path": "exports",
+      "filter": {
+        "strings": {
+          "default": {
+            "true": [
+              "UserSettingsProtoLastWriteTimes"
+            ]
+          }
+        }
+      }
+    },
+    "UserSettingsActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "open",
+            "updateAccount"
+          ]
+        }
+      }
+    },
+    "Utilities": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "flatMap",
+            "cloneDeep"
+          ]
+        }
+      }
+    },
+    "WindowActions": {
+      "export": true,
+      "filter": {
+        "properties": {
+          "true": [
+            "minimize",
+            "maximize",
+            "close"
+          ]
+        }
+      }
+    }
+  }
+}
