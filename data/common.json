@@ -2,6 +2,9 @@
   "components": {
     "Button": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -14,6 +17,9 @@
     },
     "Checkbox": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -26,6 +32,9 @@
     },
     "Clickable": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -38,6 +47,9 @@
     },
     "KeybindRecorder": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -50,6 +62,9 @@
     },
     "PopoutContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -63,6 +78,9 @@
     },
     "RadioGroup": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -75,6 +93,9 @@
     },
     "SearchBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -109,6 +130,9 @@
     },
     "Slider": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -120,6 +144,9 @@
     },
     "TabBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -132,6 +159,9 @@
     },
     "Table": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -143,6 +173,9 @@
     },
     "TextArea": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -175,6 +208,9 @@
     },
     "TooltipContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -301,6 +337,9 @@
   "apis": {
     "AccountDetails": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -312,6 +351,9 @@
     },
     "AccountDetailsButtons": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -324,6 +366,9 @@
     },
     "Anchor": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -335,6 +380,9 @@
     },
     "AnimationContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -346,6 +394,9 @@
     },
     "AppBase": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -357,6 +408,9 @@
     },
     "AppInner": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -368,6 +422,9 @@
     },
     "AppMount": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -378,6 +435,9 @@
     },
     "ApplicationStore": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -389,6 +449,9 @@
     },
     "AppOuter": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -400,6 +463,9 @@
     },
     "Attachment": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -412,6 +478,9 @@
     },
     "AuditLog": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -423,6 +492,9 @@
     },
     "AuthBox": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -433,6 +505,9 @@
     },
     "Autocomplete": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -444,6 +519,9 @@
     },
     "AutocompleteAliases": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -455,6 +533,9 @@
     },
     "Avatar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -467,6 +548,9 @@
     },
     "AvatarIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -478,6 +562,9 @@
     },
     "Backdrop": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -489,6 +576,9 @@
     },
     "Badge": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -501,6 +591,9 @@
     },
     "BotTag": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -512,6 +605,9 @@
     },
     "Button": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -523,6 +619,9 @@
     },
     "CallCurrent": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -534,6 +633,9 @@
     },
     "CallDetails": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -545,6 +647,9 @@
     },
     "CallIncoming": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -556,6 +661,9 @@
     },
     "Card": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -567,6 +675,9 @@
     },
     "Category": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -579,6 +690,9 @@
     },
     "CategoryArrow": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -590,6 +704,9 @@
     },
     "ChangeLog": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -603,6 +720,9 @@
     },
     "Channel": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -615,6 +735,9 @@
     },
     "ChannelContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -626,6 +749,9 @@
     },
     "ChannelContainerMentionsBadge": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -637,6 +763,9 @@
     },
     "ChannelLimit": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -649,6 +778,9 @@
     },
     "ChannelTextArea": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -660,6 +792,9 @@
     },
     "ChannelTextAreaAttachButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -671,6 +806,9 @@
     },
     "ChannelTextAreaButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -682,6 +820,9 @@
     },
     "ChannelTextAreaCharCounter": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -693,6 +834,9 @@
     },
     "ChannelTextAreaSlate": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -704,6 +848,9 @@
     },
     "ChatThreadSidebar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -716,6 +863,9 @@
     },
     "ChatWindow": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -728,6 +878,9 @@
     },
     "Checkbox": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -739,6 +892,9 @@
     },
     "ColorPicker": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -750,6 +906,9 @@
     },
     "ColorPickerInner": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -761,6 +920,9 @@
     },
     "Combobox": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -772,6 +934,9 @@
     },
     "Cursor": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -783,6 +948,9 @@
     },
     "CustomStatus": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -795,6 +963,9 @@
     },
     "CustomStatusIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -807,6 +978,9 @@
     },
     "CustomStatusModal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -819,6 +993,9 @@
     },
     "CustomStatusPopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -830,6 +1007,9 @@
     },
     "DmAddPopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -841,6 +1021,9 @@
     },
     "DmAddPopoutItems": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -852,6 +1035,9 @@
     },
     "DefaultChannelWelcome": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -864,6 +1050,9 @@
     },
     "DownloadLink": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -874,6 +1063,9 @@
     },
     "Embed": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -885,6 +1077,9 @@
     },
     "EmbedActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -896,6 +1091,9 @@
     },
     "Emoji": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -910,6 +1108,9 @@
     },
     "EmojiButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -921,6 +1122,9 @@
     },
     "EmojiPicker": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -932,6 +1136,9 @@
     },
     "EmojiPickerDiversitySelector": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -943,6 +1150,9 @@
     },
     "EmojiPickerItem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -953,6 +1163,9 @@
     },
     "EmojiPickerInspector": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -964,6 +1177,9 @@
     },
     "EmojiPickerInspectorEmoji": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -975,6 +1191,9 @@
     },
     "ErrorScreen": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -987,6 +1206,9 @@
     },
     "ExpressionPicker": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -999,6 +1221,9 @@
     },
     "FavButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1011,6 +1236,9 @@
     },
     "File": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1022,6 +1250,9 @@
     },
     "Flex": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 24,
@@ -1037,6 +1268,9 @@
     },
     "FlexChild": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1048,6 +1282,9 @@
     },
     "FlowerStar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1059,6 +1296,9 @@
     },
     "FormText": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1070,6 +1310,9 @@
     },
     "ForumPage": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1082,6 +1325,9 @@
     },
     "Game": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1093,6 +1339,9 @@
     },
     "GameIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1105,6 +1354,9 @@
     },
     "GameLibraryTable": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1116,6 +1368,9 @@
     },
     "GifFavoriteButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1127,6 +1382,9 @@
     },
     "GoLiveDetails": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1138,6 +1396,9 @@
     },
     "Guild": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1150,6 +1411,9 @@
     },
     "GuildChannels": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1161,6 +1425,9 @@
     },
     "GuildChannelsWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1172,6 +1439,9 @@
     },
     "GuildDiscovery": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1183,6 +1453,9 @@
     },
     "GuildDm": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -1197,6 +1470,9 @@
     },
     "GuildEdges": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1209,6 +1485,9 @@
     },
     "GuildFolder": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1220,6 +1499,9 @@
     },
     "GuildHeader": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1232,6 +1514,9 @@
     },
     "GuildHeaderButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1243,6 +1528,9 @@
     },
     "GuildItem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 10,
@@ -1258,6 +1546,9 @@
     },
     "GuildIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1270,6 +1561,9 @@
     },
     "GuildInvite": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1281,6 +1575,9 @@
     },
     "GuildsButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 6,
@@ -1296,6 +1593,9 @@
     },
     "GuildsDragPlaceholder": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 6,
@@ -1311,6 +1611,9 @@
     },
     "GuildSeparator": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1321,6 +1624,9 @@
     },
     "GuildServer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1332,6 +1638,9 @@
     },
     "GuildSettingsBanned": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1343,6 +1652,9 @@
     },
     "GuildSettingsEmoji": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1354,6 +1666,9 @@
     },
     "GuildSettingsInvite": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1365,6 +1680,9 @@
     },
     "GuildSettingsMember": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1376,6 +1694,9 @@
     },
     "GuildsListItem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1387,6 +1708,9 @@
     },
     "GuildsInboxIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1398,6 +1722,9 @@
     },
     "GuildsItems": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1409,6 +1736,9 @@
     },
     "GuildsWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1421,6 +1751,9 @@
     },
     "HeaderBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1433,6 +1766,9 @@
     },
     "HeaderBarExtras": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1444,6 +1780,9 @@
     },
     "HeaderBarSearch": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1456,6 +1795,9 @@
     },
     "HeaderBarTopic": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1468,6 +1810,9 @@
     },
     "Heading": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1479,6 +1824,9 @@
     },
     "HomeIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1489,6 +1837,9 @@
     },
     "HotKeyRecorder": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1500,6 +1851,9 @@
     },
     "HoverCard": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1511,6 +1865,9 @@
     },
     "HoverCardRemoveButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1523,6 +1880,9 @@
     },
     "IconDirection": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1534,6 +1894,9 @@
     },
     "ImageAssets": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1545,6 +1908,9 @@
     },
     "ImageModal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 4,
@@ -1560,6 +1926,9 @@
     },
     "ImageModalNavigation": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1572,6 +1941,9 @@
     },
     "ImageWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1583,6 +1955,9 @@
     },
     "Input": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1594,6 +1969,9 @@
     },
     "InviteModal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1605,6 +1983,9 @@
     },
     "Item": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1617,6 +1998,9 @@
     },
     "ItemRole": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1628,6 +2012,9 @@
     },
     "ItemLayerContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1639,6 +2026,9 @@
     },
     "Layers": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1650,6 +2040,9 @@
     },
     "LiveTag": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1661,6 +2054,9 @@
     },
     "LoadingScreen": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1673,6 +2069,9 @@
     },
     "Margins": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1684,6 +2083,9 @@
     },
     "Menu": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1696,6 +2098,9 @@
     },
     "MenuCaret": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1707,6 +2112,9 @@
     },
     "MenuReactButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1720,6 +2128,9 @@
     },
     "MenuSlider": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1731,6 +2142,9 @@
     },
     "Member": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1742,6 +2156,9 @@
     },
     "MemberSince": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1753,6 +2170,9 @@
     },
     "MembersWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1764,6 +2184,9 @@
     },
     "Message": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1775,6 +2198,9 @@
     },
     "MessageAccessory": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1786,6 +2212,9 @@
     },
     "MessageAttachment": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1797,6 +2226,9 @@
     },
     "MessageBlocked": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1808,6 +2240,9 @@
     },
     "MessageBody": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1819,6 +2254,9 @@
     },
     "MessageDivider": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1830,6 +2268,9 @@
     },
     "MessageElements": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1841,6 +2282,9 @@
     },
     "MessageFile": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1852,6 +2296,9 @@
     },
     "MessageLocalBot": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1863,6 +2310,9 @@
     },
     "MessageMarkup": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1873,6 +2323,9 @@
     },
     "MessagePopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1884,6 +2337,9 @@
     },
     "MessageOperations": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -1898,6 +2354,9 @@
     },
     "MessageReactions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1909,6 +2368,9 @@
     },
     "MessageReactionsModal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1920,6 +2382,9 @@
     },
     "MessageReply": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1932,6 +2397,9 @@
     },
     "MessagesPopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1943,6 +2411,9 @@
     },
     "MessagesPopoutButtons": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1955,6 +2426,9 @@
     },
     "MessagesPopoutTabBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1967,6 +2441,9 @@
     },
     "MessagesLoading": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1979,6 +2456,9 @@
     },
     "MessagesWelcome": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -1991,6 +2471,9 @@
     },
     "MessagesWelcomeButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 2,
@@ -2006,6 +2489,9 @@
     },
     "MessagesWelcomeThread": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2017,6 +2503,9 @@
     },
     "MessagesWrap": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2028,6 +2517,9 @@
     },
     "MessageSystem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2039,6 +2531,9 @@
     },
     "MessageSystemAccessories": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2051,6 +2546,9 @@
     },
     "MessageToolbar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2063,6 +2561,9 @@
     },
     "MessageToolbarItems": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2075,6 +2576,9 @@
     },
     "Modal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2087,6 +2591,9 @@
     },
     "ModalCarousel": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2098,6 +2605,9 @@
     },
     "ModalCarouselWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2109,6 +2619,9 @@
     },
     "ModalDivider": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -2123,6 +2636,9 @@
     },
     "ModalItems": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2134,6 +2650,9 @@
     },
     "ModalMiniContent": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2146,6 +2665,9 @@
     },
     "ModalSub": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2157,6 +2679,9 @@
     },
     "NameContainer": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2168,6 +2693,9 @@
     },
     "NameContainerState": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2180,6 +2708,9 @@
     },
     "NameTag": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2191,6 +2722,9 @@
     },
     "NitroStore": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2202,6 +2736,9 @@
     },
     "NoteTextarea": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -2216,6 +2753,9 @@
     },
     "Notice": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2227,6 +2767,9 @@
     },
     "NoticePlatform": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2238,6 +2781,9 @@
     },
     "Pagination": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2249,6 +2795,9 @@
     },
     "PeopleItem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2260,6 +2809,9 @@
     },
     "PeopleItemInfo": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 2,
@@ -2275,6 +2827,9 @@
     },
     "PeopleItemUser": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2286,6 +2841,9 @@
     },
     "PeopleList": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2297,6 +2855,9 @@
     },
     "Peoples": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2308,6 +2869,9 @@
     },
     "PeoplesNowPlayingMember": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2319,6 +2883,9 @@
     },
     "PictureInPicture": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2330,6 +2897,9 @@
     },
     "PillWrapper": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 2,
@@ -2345,6 +2915,9 @@
     },
     "PrivateChannel": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2356,6 +2929,9 @@
     },
     "PrivateChannelList": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2367,6 +2943,9 @@
     },
     "PrivateChannelListScroller": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2378,6 +2957,9 @@
     },
     "PopoutActivity": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2389,6 +2971,9 @@
     },
     "QuickMessage": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 1,
@@ -2403,6 +2988,9 @@
     },
     "QuickSelect": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2414,6 +3002,9 @@
     },
     "QuickSwitch": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2425,6 +3016,9 @@
     },
     "QuickSwitchWrap": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2436,6 +3030,9 @@
     },
     "RadioGroup": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2447,6 +3044,9 @@
     },
     "Reactions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2458,6 +3058,9 @@
     },
     "RecentMentions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2468,6 +3071,9 @@
     },
     "RecentMentionsHeader": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2480,6 +3086,9 @@
     },
     "Role": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2491,6 +3100,9 @@
     },
     "RoleCircle": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2502,6 +3114,9 @@
     },
     "RoleIcon": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 4,
@@ -2517,6 +3132,9 @@
     },
     "Roles": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2529,6 +3147,9 @@
     },
     "Scrollbar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2540,6 +3161,9 @@
     },
     "Scroller": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2552,6 +3176,9 @@
     },
     "SearchBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2564,6 +3191,9 @@
     },
     "SearchPopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2575,6 +3205,9 @@
     },
     "SearchPopoutWrap": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2586,6 +3219,9 @@
     },
     "SearchResults": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2597,6 +3233,9 @@
     },
     "SearchResultsElements": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2608,6 +3247,9 @@
     },
     "SearchResultsGroup": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2619,6 +3261,9 @@
     },
     "SearchResultsMessage": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2630,6 +3275,9 @@
     },
     "Select": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2642,6 +3290,9 @@
     },
     "SelectFilterPopout": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2654,6 +3305,9 @@
     },
     "SelectSearchable": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2666,6 +3320,9 @@
     },
     "SettingsCloseButton": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2677,6 +3334,9 @@
     },
     "SettingsItems": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2688,6 +3348,9 @@
     },
     "SettingsTable": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2699,6 +3362,9 @@
     },
     "SettingsWindow": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2710,6 +3376,9 @@
     },
     "SettingsWindowScroller": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2722,6 +3391,9 @@
     },
     "Slider": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2733,6 +3405,9 @@
     },
     "Spinner": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2744,6 +3419,9 @@
     },
     "Spoiler": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2755,6 +3433,9 @@
     },
     "Switch": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2767,6 +3448,9 @@
     },
     "Table": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2778,6 +3462,9 @@
     },
     "Text": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2789,6 +3476,9 @@
     },
     "TextColor": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2801,6 +3491,9 @@
     },
     "TextColor2": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2813,6 +3506,9 @@
     },
     "TextSize": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2825,6 +3521,9 @@
     },
     "TextStyle": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2837,6 +3536,9 @@
     },
     "ThreadCard": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2849,6 +3551,9 @@
     },
     "Tip": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2860,6 +3565,9 @@
     },
     "TitleBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2871,6 +3579,9 @@
     },
     "Tooltip": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2882,6 +3593,9 @@
     },
     "TooltipGuild": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2893,6 +3607,9 @@
     },
     "Typing": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2904,6 +3621,9 @@
     },
     "UnreadBar": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2916,6 +3636,9 @@
     },
     "UploadModal": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2927,6 +3650,9 @@
     },
     "UserBadges": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2938,6 +3664,9 @@
     },
     "UserBanner": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2949,6 +3678,9 @@
     },
     "UserPopoutFooter": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2960,6 +3692,9 @@
     },
     "UserPopoutHeader": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2972,6 +3707,9 @@
     },
     "UserPopoutSection": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -2983,6 +3721,9 @@
     },
     "UserPopoutSectionTitle": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "keys": {
           "length": 2,
@@ -2998,6 +3739,9 @@
     },
     "UserPopoutUsernameSection": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3010,6 +3754,9 @@
     },
     "UserProfile": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3021,6 +3768,9 @@
     },
     "UserProfileHeader": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3033,6 +3783,9 @@
     },
     "UserProfileInfoSection": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3044,6 +3797,9 @@
     },
     "UserProfileList": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3055,6 +3811,9 @@
     },
     "UserProfileListGuild": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3066,6 +3825,9 @@
     },
     "UserProfileUsernameSection": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3078,6 +3840,9 @@
     },
     "UserSettingsAppearancePreview": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3089,6 +3854,9 @@
     },
     "UserSettingsSocialLinks": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3100,6 +3868,9 @@
     },
     "UserSummaryItem": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3111,6 +3882,9 @@
     },
     "UserTheme": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3122,6 +3896,9 @@
     },
     "Video": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3133,6 +3910,9 @@
     },
     "VoiceChannel": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3144,6 +3924,9 @@
     },
     "VoiceChannelLimit": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3156,6 +3939,9 @@
     },
     "VoiceChannelList": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3167,6 +3953,9 @@
     },
     "VoiceDetails": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3178,6 +3967,9 @@
     },
     "VoiceDetailsPing": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3189,6 +3981,9 @@
     },
     "WebhookCard": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3224,6 +4019,9 @@
     },
     "ActivityActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3235,6 +4033,9 @@
     },
     "AnalyticsActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3246,6 +4047,9 @@
     },
     "AnimationActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3257,6 +4061,9 @@
     },
     "APIEncodeActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3269,6 +4076,9 @@
     },
     "APIActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3279,6 +4089,9 @@
     },
     "AppearanceSettingsActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3311,6 +4124,9 @@
     },
     "ArrayActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3322,6 +4138,9 @@
     },
     "ChannelActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3354,6 +4173,9 @@
     },
     "ConnectionProviderActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3366,6 +4188,9 @@
     },
     "ConnectionActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3400,6 +4225,9 @@
     },
     "CurrentUserStore": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3410,6 +4238,9 @@
     },
     "DesktopNotificationActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3421,6 +4252,9 @@
     },
     "DispatchApiActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3432,6 +4266,9 @@
     },
     "DispatchActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "map": {
         "ComponentDispatch": [
           "_eventsCount"
@@ -3448,6 +4285,9 @@
     },
     "EmojiActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3459,6 +4299,9 @@
     },
     "EmojiStateActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3470,6 +4313,9 @@
     },
     "Env": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3480,6 +4326,9 @@
     },
     "FileRequestActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3532,6 +4381,9 @@
     },
     "GuildNotificationsActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3543,6 +4395,9 @@
     },
     "GuildActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3573,6 +4428,9 @@
     },
     "IconActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3584,6 +4442,9 @@
     },
     "InviteActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3595,6 +4456,9 @@
     },
     "InternalReactActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3635,6 +4499,9 @@
     },
     "KeyEvents": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3647,6 +4514,9 @@
     },
     "LoginActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3679,6 +4549,9 @@
     },
     "MediaEngineActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3803,6 +4676,9 @@
     },
     "MessageParser": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3814,6 +4690,9 @@
     },
     "MessagePinActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3825,6 +4704,9 @@
     },
     "MessageActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3863,6 +4745,9 @@
     },
     "NitroActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3874,6 +4759,9 @@
     },
     "NotificationSettingsActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3916,6 +4804,9 @@
     },
     "PermissionRoleActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3950,6 +4841,9 @@
     },
     "PrivateChannelActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3961,6 +4855,9 @@
     },
     "QuerySearchActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4013,6 +4910,9 @@
     },
     "RecentMentionActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4024,6 +4924,9 @@
     },
     "RelationshipActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4060,6 +4963,9 @@
     },
     "RTCConnectionActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4109,6 +5015,9 @@
     },
     "SimpleMarkdownComponents": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4121,6 +5030,9 @@
     },
     "SimpleMarkdownParser": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4180,6 +5092,9 @@
     },
     "SoundParser": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4222,6 +5137,9 @@
     },
     "SortedGuildActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4275,6 +5193,9 @@
     },
     "StoreChangeActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4288,6 +5209,9 @@
     },
     "TimestampActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4299,6 +5223,9 @@
     },
     "UploadActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4310,6 +5237,9 @@
     },
     "URLParser": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4321,6 +5251,9 @@
     },
     "UserNameActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4391,6 +5324,9 @@
     },
     "UserSettingsActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4402,6 +5338,9 @@
     },
     "Utilities": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
@@ -4413,6 +5352,9 @@
     },
     "WindowActions": {
       "export": true,
+      "path": {
+        "auto": true
+      },
       "filter": {
         "properties": {
           "true": [
