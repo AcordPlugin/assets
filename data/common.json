@@ -215,6 +215,17 @@
     "Avatars": {
       "export": false,
       "path": "exports",
+      "map": {
+        "AnimatedAvatar": [
+          "compare"
+        ],
+        "Avatar": [
+          "statusColor"
+        ],
+        "Sizes": [
+          "SIZE_32"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -228,6 +239,21 @@
     "Badges": {
       "export": false,
       "path": "exports",
+      "map": {
+        "BadgeShapes": [
+          "baseShapeRoundRight",
+          "baseShapeRoundLeft"
+        ],
+        "IconBadge": [
+          ".iconBadge"
+        ],
+        "NumberBadge": [
+          ".numberBadge"
+        ],
+        "TextBadge": [
+          ".textBadge"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -330,6 +356,35 @@
     "FormComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "FormDivider": [
+          ".divider"
+        ],
+        "FormItem": [
+          ".titleClassName",
+          "required"
+        ],
+        "FormNotice": [
+          ".iconClassName",
+          ".imageData"
+        ],
+        "FormSection": [
+          "sectionTitle",
+          "titleId"
+        ],
+        "FormTags": [
+          "\"H1\":\"h1\"",
+          "\"H2\":\"h2\""
+        ],
+        "FormText": [
+          ".type",
+          ".DEFAULT"
+        ],
+        "FormTitle": [
+          ".tag",
+          ".errorSeparator"
+        ]
+      },
       "filter": {
         "properties": {
           "true": [
@@ -353,6 +408,15 @@
     },
     "GuildIconComponents": {
       "export": true,
+      "map": {
+        "Icon": [
+          ".apply"
+        ],
+        "Sizes": [
+          "\"SMOL\"",
+          "\"SMALLER\""
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -409,6 +473,15 @@
     "ImageComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "Image": [
+          "containerRef"
+        ],
+        "ImageReadyStates": [
+          "LOADING",
+          "ERROR"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -433,6 +506,15 @@
     "LayerContainerComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "createLayer": [
+          ".createContext"
+        ],
+        "LayerContainer": [
+          ".layerContainer",
+          "missing parent"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -506,6 +588,19 @@
     "MessagesPopoutComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "EmptyState": [
+          "emptyPlaceholder"
+        ],
+        "Header": [
+          ".header",
+          "heading"
+        ],
+        "Popout": [
+          "renderHeader",
+          "renderEmptyState"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -518,6 +613,34 @@
     "ModalComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "Modal": [
+          ".renderModal"
+        ],
+        "ModalCloseButton": [
+          "closeWithCircle"
+        ],
+        "ModalContent": [
+          ".content,"
+        ],
+        "ModalFooter": [
+          ".footer,"
+        ],
+        "ModalHeader": [
+          ".headerId"
+        ],
+        "ModalListContent": [
+          ".scrollerRef"
+        ],
+        "ModalRoot": [
+          ".transitionState",
+          ".size"
+        ],
+        "ModalSize": [
+          "DYNAMIC",
+          "SMALL"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -567,6 +690,19 @@
     "PrivateChannelItems": {
       "export": false,
       "path": "exports",
+      "map": {
+        "DirectMessage": [
+          "getUser",
+          "getRecipientId"
+        ],
+        "GroupDM": [
+          ".getGuildId",
+          "selected:n,muted"
+        ],
+        "LinkButton": [
+          ".apply(this"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -609,6 +745,15 @@
     "SpinnerComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "Spinner": [
+          "LOADING"
+        ],
+        "Types": [
+          "WANDERING_CUBES",
+          "CHASING_DOTS"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -621,6 +766,18 @@
     "StatusComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "AnimatedStatus": [
+          "useSpring"
+        ],
+        "Status": [
+          ".mask,"
+        ],
+        "Types": [
+          "UNKNOWN",
+          "INVISIBLE"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -679,6 +836,14 @@
     "UserBadgeComponents": {
       "export": false,
       "path": "exports",
+      "map": {
+        "UserBadges": [
+          ".PROFILE_USER_BADGES"
+        ],
+        "Sizes": [
+          "\"SIZE_24\":"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3733,6 +3898,16 @@
     "AckActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "ack": [
+          "type:\"CHANNEL_ACK\"",
+          "messageId",
+          "channelId"
+        ],
+        "bulkAck": [
+          "type:\"BULK_ACK\""
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3810,6 +3985,12 @@
     "ApplicationAssetActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getAssetImage": [
+          "ApplicationAssetUtils",
+          "getAssetImage"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3844,6 +4025,12 @@
     "ChatRestrictionActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "applyChatRestrictions": [
+          "openWarningPopout",
+          "userCanUsePremiumMessageLength"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3879,6 +4066,14 @@
     "ContextMenuActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "openContextMenu": [
+          "renderLazy"
+        ],
+        "closeContextMenu": [
+          "type:\"CONTEXT_MENU_CLOSE\""
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3922,6 +4117,11 @@
     },
     "DispatchActions": {
       "export": true,
+      "map": {
+        "ComponentDispatch": [
+          "_eventsCount"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -3977,6 +4177,11 @@
     "FolderSettingsActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "saveGuildFolders": [
+          "guildFolders"
+        ]
+      },
       "filter": {
         "properties": {
           "true": [
@@ -3989,6 +4194,12 @@
     "GuildBoostActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getUserLevel": [
+          "\"months\"",
+          "next"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4023,6 +4234,11 @@
     "HistoryActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "transitionTo": [
+          "transitionTo - Transitioning to external path"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4068,6 +4284,19 @@
     "KeyCodeActions": {
       "export": false,
       "path": "exports",
+      "assign": true,
+      "map": {
+        "codeToKey": [
+          "[\"\"+",
+          "MACOS"
+        ],
+        "keyToCode": [
+          "Unrecognized DeviceType"
+        ],
+        "toName": [
+          "appVersion"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4103,6 +4332,12 @@
     "MediaComponentActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "renderImageComponent": [
+          "renderAdjacentContent",
+          "imageContent"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4126,6 +4361,11 @@
     "MemberDisplayActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getDisplayProfile": [
+          ");return null"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4139,6 +4379,13 @@
     "MentionActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "isRawMessageMentioned": [
+          "rawMessage",
+          "mention_everyone",
+          "mentionUsers"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4152,6 +4399,15 @@
     "MessageAuthorActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getAuthor": [
+          "Result cannot be null because the message is not null"
+        ],
+        "getMessageAuthor": [
+          ".getChannel(e.channel_id)",
+          "(e.author"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4164,6 +4420,11 @@
     "MessageComponentActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "useHoveredMessage": [
+          "ANIMATE_CHAT_AVATAR"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4176,6 +4437,15 @@
     "MessageManageActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "copyLink": [
+          ".guild_id"
+        ],
+        "replyToMessage": [
+          "showMentionToggle",
+          "shouldMention"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4222,6 +4492,14 @@
     "ModalActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "openModal": [
+          ".modalKey",
+          ".instant",
+          ".Layer",
+          ".onCloseRequest"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4260,6 +4538,23 @@
     "PlatformActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "isAndroid": [
+          "\"android\""
+        ],
+        "isDarwin": [
+          "\"darwin\""
+        ],
+        "isIOS": [
+          "ios"
+        ],
+        "isLinux": [
+          "\"linux\""
+        ],
+        "isWindows": [
+          "return/^win/.test"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4283,6 +4578,11 @@
     "PreferencesContext": {
       "export": false,
       "path": "exports",
+      "map": {
+        "AccessibilityPreferencesContext": [
+          "object Object"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4319,6 +4619,11 @@
     "ReactionEmojiActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getReactionEmojiName": [
+          "convertSurrogateToName"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4331,6 +4636,11 @@
     "ReactionActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getReactions": [
+          ".apply("
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4366,6 +4676,15 @@
     "RoleIconActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "canGuildUseRoleIcons": [
+          ".ROLE_ICONS"
+        ],
+        "getRoleIconData": [
+          "convertSurrogateToName",
+          "customIconSrc"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4391,6 +4710,11 @@
     "SearchPageActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "changePage": [
+          "*"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4441,6 +4765,11 @@
     "SlateRichActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "toRichValue": [
+          ".split(\"\\n\")"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4457,6 +4786,11 @@
     "SlateTextActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "toTextValue": [
+          "ignoreTrailingEmptyNodes"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4484,6 +4818,17 @@
     "SoundActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "createSound": [
+          "return new"
+        ],
+        "createSoundpackSound": [
+          ");return"
+        ],
+        "playSound": [
+          "getSoundpack"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4511,6 +4856,18 @@
     "SpotifyActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "getAccessToken": [
+          "SPOTIFY_ACCOUNT_ACCESS_TOKEN_REVOKE",
+          "CONNECTION_ACCESS_TOKEN"
+        ],
+        "pause": [
+          "SPOTIFY_PLAYER_PAUSE"
+        ],
+        "play": [
+          "SPOTIFY_PLAYER_PLAY"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4593,6 +4950,11 @@
     "UserPopoutActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "openUserContextMenu": [
+          "showMute"
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
@@ -4606,6 +4968,14 @@
     "UserProfileActions": {
       "export": false,
       "path": "exports",
+      "map": {
+        "fetchProfile": [
+          ".apply("
+        ],
+        "getUser": [
+          "\"USER_UPDATE\""
+        ]
+      },
       "filter": {
         "strings": {
           "true": [
