@@ -88,7 +88,8 @@
     "SearchableSelect": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "filter": {
         "functions": {
@@ -154,7 +155,8 @@
     "TextInput": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "filter": {
         "functions": {
@@ -188,7 +190,8 @@
     "Channel": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -203,7 +206,8 @@
     "Guild": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -218,7 +222,8 @@
     "Invite": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -232,7 +237,8 @@
     "Message": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -247,7 +253,8 @@
     "Messages": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -262,7 +269,8 @@
     "Timestamp": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -277,7 +285,8 @@
     "User": {
       "export": true,
       "path": {
-        "after": "constructor"
+        "after": "constructor",
+        "auto": true
       },
       "filter": {
         "properties": {
@@ -3192,7 +3201,8 @@
     "AckActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "ack": [
@@ -3281,7 +3291,8 @@
     "ApplicationAssetActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getAssetImage": [
@@ -3323,7 +3334,8 @@
     "ChatRestrictionActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "applyChatRestrictions": [
@@ -3366,7 +3378,8 @@
     "ContextMenuActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "openContextMenu": [
@@ -3479,7 +3492,8 @@
     "FolderSettingsActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "saveGuildFolders": [
@@ -3498,7 +3512,8 @@
     "GuildBoostActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getUserLevel": [
@@ -3540,7 +3555,8 @@
     "HistoryActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "transitionTo": [
@@ -3592,7 +3608,8 @@
     "KeyCodeActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "assign": true,
       "map": {
@@ -3642,7 +3659,8 @@
     "MediaComponentActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "renderImageComponent": [
@@ -3673,7 +3691,8 @@
     "MemberDisplayActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getDisplayProfile": [
@@ -3693,7 +3712,8 @@
     "MentionActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "isRawMessageMentioned": [
@@ -3715,7 +3735,8 @@
     "MessageAuthorActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getAuthor": [
@@ -3738,7 +3759,8 @@
     "MessageComponentActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "useHoveredMessage": [
@@ -3757,7 +3779,8 @@
     "MessageManageActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "copyLink": [
@@ -3814,7 +3837,8 @@
     "ModalActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "openModal": [
@@ -3862,7 +3886,8 @@
     "PlatformActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "isAndroid": [
@@ -3904,7 +3929,8 @@
     "PreferencesContext": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "AccessibilityPreferencesContext": [
@@ -3947,7 +3973,8 @@
     "ReactionEmojiActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getReactionEmojiName": [
@@ -3966,7 +3993,8 @@
     "ReactionActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getReactions": [
@@ -4008,7 +4036,8 @@
     "RoleIconActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "canGuildUseRoleIcons": [
@@ -4044,7 +4073,8 @@
     "SearchPageActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "changePage": [
@@ -4064,7 +4094,8 @@
     "SettingsActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "filter": {
         "strings": {
@@ -4103,7 +4134,8 @@
     "SlateRichActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "toRichValue": [
@@ -4126,7 +4158,8 @@
     "SlateTextActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "toTextValue": [
@@ -4160,7 +4193,8 @@
     "SoundActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "createSound": [
@@ -4200,7 +4234,8 @@
     "SpotifyActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "getAccessToken": [
@@ -4227,7 +4262,8 @@
     "StateStoreActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "filter": {
         "strings": {
@@ -4298,7 +4334,8 @@
     "UserPopoutActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "openUserContextMenu": [
@@ -4318,7 +4355,8 @@
     "UserProfileActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "map": {
         "fetchProfile": [
@@ -4340,7 +4378,8 @@
     "UserSettingsProtoActions": {
       "export": false,
       "path": {
-        "before": "exports"
+        "before": "exports",
+        "auto": true
       },
       "filter": {
         "strings": {
